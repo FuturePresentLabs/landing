@@ -11,10 +11,16 @@ copyright = "&copy; 2025, Future Present Labs LLC."
 # Main menu items
 [menu]
   [[menu.main]]
-    identifier = "about"
+    identifier = "home"
     name = "About"
     title = "About"
-    url = "/about/"
+    url = "/"
+    weight = -120
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    title = "Services"
+    url = "/services/"
     weight = -110
   [[menu.main]]
     identifier = "posts"
