@@ -4,14 +4,14 @@ languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
 enableEmoji = true
-googleAnalytics = ""
+googleAnalytics = "G-0P15C45WE6"
 enableRobotsTXT = true
 copyright = "&copy; 2025, Future Present Labs LLC."
 
 # Main menu items
 [menu]
   [[menu.main]]
-    identifier = "home"
+    identifier = "about"
     name = "About"
     title = "About"
     url = "/"
@@ -37,7 +37,7 @@ copyright = "&copy; 2025, Future Present Labs LLC."
 
 # Configuration Features
 [params]
-  description = "Software and Mechatronics Consulting"      # Your meta description of the site
+  description = "Software, Mechatronics, and CAD/CAM Consulting"      # Your meta description of the site
   header_title = "Future Present Labs"                 # Your header title
   header_subtitle = "Bringing the future to the present. Est. 2018" # Your header subtitle
   home_image = "/images/fpl_square.png"          # Path to header image starting from the static directory (optional)
