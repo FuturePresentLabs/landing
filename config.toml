@@ -63,3 +63,6 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   # [[params.social]]
   #   fa_icon = "fas fa-at fa-1x"
   #   href = ""
+
+[markup.goldmark.renderer]
+unsafe = true

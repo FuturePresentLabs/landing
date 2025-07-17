@@ -1,0 +1,8 @@
+{{ $base := "https://buy.stripe.com" }}
+{{ $url := .url | default (printf "%s/%s" $base .slug) }}
+{{ $label := .label | default "Buy Now" }}
+{{ $class := .class | default "btn btn-primary" }}
+
+<a href="{{ $url }}" class="{{ $class }}">
+  {{ $label }}
+</a>

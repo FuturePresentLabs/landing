@@ -1,3 +1,6 @@
+{{ $header := .Get "header" | default "Let's Talk" }}
+{{ $body := .Get "body" | default "Have questions, a project in mind, or ready to pick a package? We’re here to help—reach out and start the conversation:" }}
+
 <style>
 .contact-block {
   margin-top: 2rem;
@@ -18,8 +21,8 @@
 </style>
 
 <div class="contact-block">
-  <h2>Let’s Talk</h2>
-  <p>Have questions, a project in mind, or ready to pick a package? We’re here to help—reach out and start the conversation:</p>
+  <h2>{{ $header }}</h2>
+  <p>{{ $body }}</p>
   <p>
     <a href="mailto:futurepresentlabs@proton.me?subject=Project%20Inquiry" class="contact-email">
       futurepresentlabs@proton.me

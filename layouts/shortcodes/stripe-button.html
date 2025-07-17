@@ -1,0 +1,6 @@
+{{ partial "stripe-button.html" (dict
+  "slug" (.Get "slug")
+  "url" (.Get "url")
+  "label" (.Get "label")
+  "class" (.Get "class" | default "btn btn-primary")
+) }}
