@@ -8,12 +8,12 @@ layout: services
 services:
   - title: CAD, CAM & CNC Services
     url: /services/#cnc
-  - title: Infrastructure Consulting
-    url: /services/#infra
+  - title: Mechatronics Consulting
+    url: /services/#mecha
+  - title: Shroud - Enterpise Workload Orchestration
+    url: /shroud
   - title: Ongoing Support
     url: /services/support
-  - title: Web Development
-    url: /services/website_blog
 ---
 
 ---
@@ -40,7 +40,7 @@ We have extensive experience machining a wide variety of materials:
 
 ---
 
-### Mechatronics Consulting Services {#infra}
+### Mechatronics Consulting Services {#mecha}
 #### Expert Engineering to Power Your Product
 
 We are more than a machine shop; we are an engineering partner. Our consulting services provide strategic and technical expertise to solve your most difficult challenges.

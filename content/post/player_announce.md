@@ -3,7 +3,7 @@ title: "Player Aerospace Partners with FPL to Accelerate Rocket System Productio
 date: 2025-07-24
 description: "Player Aerospace announces a strategic partnership with Seattle-based Future Present Labs (FPL) to manufacture next-gen rocket test stands and consult on propulsion systems using advanced CNC machining and engineering."
 keywords: ["aerospace manufacturing", "Player Aerospace", "Future Present Labs", "CNC machining", "rocket test stands", "engineering consulting", "rapid prototyping", "solid rocket motors", "Seattle aerospace"]
-categories: ["Partnerships"]
+categories: ["Partnerships", "Aerospace"]
 ---
 
 *Future Present Labs will provide specialized CNC machining and engineering consulting from its Seattle facility to scale manufacturing for Player Aerospace’s critical hardware.*
