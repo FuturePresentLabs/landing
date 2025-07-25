@@ -1,13 +1,15 @@
 {{ define "main" }}
+<div class="pl-sm-4 ml-sm-5">
   <h2>{{ .Title }}</h2>
   <p>{{ .Params.description }}</p>
 
   <ul>
     {{ range .Params.services }}
-      <li><a href="{{ .url }}">{{ .title }}</a></li>
+    <li><a href="{{ .url }}">{{ .title }}</a></li>
     {{ end }}
   </ul>
 
   {{ .Content }}
+</div>
 {{ end }}
 

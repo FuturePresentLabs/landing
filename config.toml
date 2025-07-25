@@ -1,5 +1,5 @@
 baseURL = "https://fpl.dev"
-title = "FPL | Future Present Labs"
+title = "Future Present Labs | Precision CNC Machining & Mechatronics Consulting | Seattle, WA"
 languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
@@ -11,9 +11,9 @@ copyright = "&copy; 2025, Future Present Labs LLC."
 # Main menu items
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    title = "About"
+    identifier = "home"
+    name = "Home"
+    title = "Home"
     url = "/"
     weight = -120
   [[menu.main]]
@@ -23,11 +23,17 @@ copyright = "&copy; 2025, Future Present Labs LLC."
     url = "/services/"
     weight = -110
   [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about"
+    weight = -100
+  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     title = "Posts"
     url = "/post/"
-    weight = -100
+    weight = -90
   # [[menu.main]]
   #   identifier = "categories"
   #   name = "Categories"
@@ -37,7 +43,7 @@ copyright = "&copy; 2025, Future Present Labs LLC."
 
 # Configuration Features
 [params]
-  description = "Software, Mechatronics, and CAD/CAM Consulting"      # Your meta description of the site
+  description = "Accelerate your innovation with Future Present Labs. Seattle's expert partner for high-precision CNC machining, rapid prototyping, and advanced mechatronics consulting. Get a quote today."      # Your meta description of the site
   header_title = "Future Present Labs"                 # Your header title
   header_subtitle = "Bringing the future to the present. Est. 2018" # Your header subtitle
   home_image = "/images/fpl_square.png"          # Path to header image starting from the static directory (optional)
@@ -54,9 +60,9 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   [[params.social]]
     fa_icon = "fas fa-envelope fa-1x"
     href = "mailto:futurepresentlabs@proton.me"
-  # [[params.social]]
-  #   fa_icon = "fab fa-linkedin-in fa-1x"
-  #   href = ""
+  [[params.social]]
+    fa_icon = "fab fa-instagram fa-1x"
+    href = "https://instagram.com/futurepresentlabs"
   # [[params.social]]
   #   fa_icon = "fab fa-twitter fa-1x"
   #   href = ""
@@ -66,3 +72,8 @@ copyright = "&copy; 2025, Future Present Labs LLC."
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = false
