@@ -1,0 +1,24 @@
+{{- $items := site.Params.capabilities -}}
+{{- if not (gt (len $items) 0) -}}
+  {{- $items = slice
+      (dict "title" "CNC machining" "body" "4-axis milling for aluminum, stainless, tool steels, and plastics." "bullets" (slice "Prototype and bridge production" "Inspection notes with every run"))
+      (dict "title" "CNC lathe" "body" "Turning for bushings, shafts, and housings with hand-fit checks." "bullets" (slice "Threading, grooving, and parting tooling" "Assemblies packed and labeled"))
+      (dict "title" "3D printing" "body" "Carbon-filled nylon and engineering plastics for tooling and fixtures." "bullets" (slice "Fixtures ready in hours" "Hybrid prints + machined plates"))
+      (dict "title" "Specialty software development" "body" "Lightweight firmware, scripts, and automation to keep hardware tests and tooling synced." "bullets" (slice "Firmware patches" "Data logging scripts"))
+    -}}
+{{- end -}}
+<div class="capabilities-grid compact">
+  {{- range $items -}}
+    <article class="cap-card">
+      <h4>{{ .title }}</h4>
+      {{- with .body }}<p>{{ . }}</p>{{ end -}}
+      {{- with .bullets }}
+        <ul>
+          {{- range . -}}
+            <li>{{ . }}</li>
+          {{- end -}}
+        </ul>
+      {{- end -}}
+    </article>
+  {{- end -}}
+</div>

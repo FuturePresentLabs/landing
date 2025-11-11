@@ -1,0 +1,13 @@
+{{- $key := .Get "key" -}}
+{{- $default := .Get "default" | default "" -}}
+{{- $value := "" -}}
+{{- with site.Params.hero -}}
+  {{- with index . $key -}}
+    {{- $value = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if $value -}}
+  {{- $value -}}
+{{- else -}}
+  {{- $default -}}
+{{- end -}}

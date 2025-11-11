@@ -16,21 +16,21 @@ copyright = "&copy; 2025, Future Present Labs LLC."
     title = "Home"
     url = "/"
     weight = -120
-  [[menu.main]]
-    identifier = "services"
-    name = "Services"
-    title = "Services"
-    url = "/services/"
-    weight = -110
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    title = "About"
-    url = "/about"
-    weight = -100
+  # [[menu.main]]
+  #   identifier = "services"
+  #   name = "Services"
+  #   title = "Services"
+  #   url = "/services/"
+  #   weight = -110
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   title = "About"
+  #   url = "/about"
+  #   weight = -100
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Blog"
     title = "Posts"
     url = "/post/"
     weight = -90
@@ -49,6 +49,12 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   home_image = "/images/fpl_square.png"          # Path to header image starting from the static directory (optional)
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["post"]   # Main sections to include in recent posts
+  [params.hero]
+    eyebrow = "Integrated engineering + manufacturing"
+    title = "From Complex Idea to Precision Part, Faster."
+    summary = "Future Present Labs is a small Seattle shop with a single 4-axis CNC mill, a CNC lathe, and a couple of 3D printers. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
+    panel_eyebrow = "What teams gain"
+    panel_summary = "Typical jobs: prototype brackets, housings, fixtures, and simple harness tooling. Most repeat work starts within two business days."
   [params.style]                             # CSS style overrides
     backgroundColor = "#f8f9fa"
     homeImageBorderColor = "#ffffff"
@@ -69,6 +75,69 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   # [[params.social]]
   #   fa_icon = "fas fa-at fa-1x"
   #   href = ""
+
+  [[params.hero_stats]]
+    value = "1k+"
+    label = "Parts delivered last month"
+  [[params.hero_stats]]
+    value = "48 hr"
+    label = "Typical start for repeat work"
+  [[params.hero_stats]]
+    value = "0.001\""
+    label = "Tight tolerances where you need them"
+
+  [params.how_we_work]
+    headline = "How We Work"
+    [[params.how_we_work.steps]]
+      title = "Click"
+      body = "Share the files: Upload CAD, prints, or even a quick sketch. We’ll confirm feasibility, materials, and schedule."
+    [[params.how_we_work.steps]]
+      title = "Build"
+      body = "We machine in-house: Programming, machining, light printing, and inspection all happen in the same Seattle shop."
+    [[params.how_we_work.steps]]
+      title = "Ship"
+      body = "Review & iterate: You get photos, measurement notes, and parts packed for the next round of testing."
+
+  [[params.capabilities]]
+    title = "CNC machining"
+    body = "4-axis milling in aluminum, stainless, tool steels, and engineering plastics. Setups stay ready for quick reruns."
+    bullets = ["Prototype and bridge production", "In-process probing + inspection notes", "Surface finishing through local partners"]
+  [[params.capabilities]]
+    title = "CNC turning"
+    body = "Lathe Turning for bushings, shafts, and housings with hand-fit checks before shipping."
+    bullets = ["Quick-change workholding for short runs", "Threading, grooving, and parting tools on-hand", "Assemblies bagged, tagged, and ready for test"]
+  [[params.capabilities]]
+    title = "3D printing"
+    body = "Carbon-filled nylon and engineering-grade plastics for tooling, fixtures, and workholding."
+    bullets = ["Printer-ready in hours for fixtures or nests", "Hybrid prints + machined plates for rigid tooling", "Lightweight hardware for mockups and demos"]
+  [[params.capabilities]]
+    title = "Software Development"
+    body = "Lightweight firmware, scripts, and automation to get business problems solved fast."
+    bullets = ["Inventory management + e-commerce", "Data logging or control scripts for test rigs", "Apps to link tooling, machining, and reporting"]
+
+  [params.trusted_by]
+    eyebrow = "Trusted by"
+    heading = "From Entertainment to National Defense - We Have Your Back."
+    caption = "Our parts & software power everything from your favorite bars and clubs, to defense manufactures protecting the nation and it's people."
+  [params.trusted_by.cta]
+    label = "See the full client stories"
+    url = "/categories/partnerships"
+  [[params.trusted_by.logos]]
+    label = "Player Aerospace"
+  [[params.trusted_by.logos]]
+    image = "/images/stark80.webp"
+    alt = "Stark80 LLC"
+  [[params.trusted_by.logos]]
+    label = "GSG Mfg LLC"
+  [[params.trusted_by.logos]]
+    image = "/images/shroud-logo.png"
+    alt = "Shroud"
+  [[params.trusted_by.logos]]
+    image = "/images/diller.png"
+    alt = "The Diller Room"
+  [[params.trusted_by.logos]]
+    image = "/images/c7.jpg"
+    alt = "C7"
 
 [markup.goldmark.renderer]
 unsafe = true

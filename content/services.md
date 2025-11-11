@@ -18,42 +18,30 @@ services:
 
 ---
 
-### Precision CNC Machining Services {#cnc}
+### CNC machining services {#cnc}
 
-#### From CAD to Component with Speed and Accuracy
-
-Our state-of-the-art machine shop in Seattle is built for agility and precision. We empower our clients to move quickly without sacrificing quality, providing the critical manufacturing support needed to bring innovative products to market.
-
-**Rapid Prototyping:** Quickly validate your designs with functional, high-fidelity prototypes. We specialize in turning your concepts into tangible parts in days, not weeks, dramatically shortening your development cycle.
-
-**Small-Batch Production:** Perfect for low-to-medium volume runs, we provide consistent, high-quality production parts without the long lead times or high costs of large-scale manufacturing.
-
-**Multi-Axis CNC Milling & Turning:** Our capabilities include 3 and 4-axis milling and CNC lathe work to produce complex geometries and intricate features with exceptional precision.
-
-#### Materials Expertise
-We have extensive experience machining a wide variety of materials:
-
-- **Aluminum:** 6061, 7075, MIC-6
-- **Steel:** Stainless (303, 304, 316), Alloy Steel (4130, 4140)
-- **Engineering Plastics:** Delrin, PEEK, Nylon, Polycarbonate
-- **Composites:** Carbon Fiber, G-10/FR-4, Fiberglass
+We run one 4-axis mill and one CNC lathe focused on prototypes and short-run parts. Materials we regularly keep on hand include 6061, 7075, stainless, tool steel, Delrin, and other engineering plastics. Every job ships with simple measurement notes so you know what we checked.
 
 ---
 
-### Mechatronics Consulting Services {#mecha}
-#### Expert Engineering to Power Your Product
+### Mechatronics &amp; embedded support {#mecha}
 
-We are more than a machine shop; we are an engineering partner. Our consulting services provide strategic and technical expertise to solve your most difficult challenges.
-
-**System Design & Integration:** Robust mechatronic systems combining mechanics, electronics, and software.
-
-**Automation & Robotics:** Custom robotic systems for manufacturing, testing, and R&D.
-
-**Embedded Systems & Electronics:** PCB design, firmware development (C/C++, Python), IoT solutions.
-
-**R&D and Feasibility:** Proof-of-concepts, technical validation, and development roadmaps.
+Need firmware tweaks, harnesses, or test rigs alongside the machined parts? We can help with quick firmware flashes, data capture, and bench fixtures so you aren’t chasing separate vendors.
 
 ---
 
-{{< contact header="Let's Build Your Next Project" body="Ready to get started? Whether you need a single prototype or a comprehensive design and manufacturing partner, we're ready to help.">}}
+### Tooling, fixtures, and 3D printing
 
+We keep two engineering-grade printers online for workholding, assembly aids, and lightweight fixtures. When a machined plate or carbon-filled print will save time on the next build, we include it.
+
+---
+
+### Engagement options
+
+- **Project-based machining:** Send CAD or prints; we’ll program, machine, inspect, and ship.
+- **Hands-on partner:** Keep us in the loop on firmware and test, and we’ll jump on calls or Slack as work progresses.
+- **Sustaining support:** Hold recurring slots on the mill or lathe for ongoing hardware programs.
+
+---
+
+{{< contact header="Let's Build Your Next Project" body="Ready to get started? Whether you need a prototype, short-run machining, or supporting fixtures, we’re ready to help." >}}

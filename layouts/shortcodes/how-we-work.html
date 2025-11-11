@@ -1,0 +1,27 @@
+{{- $data := site.Params.how_we_work -}}
+{{- $steps := slice -}}
+{{- if and $data $data.steps -}}
+  {{- $steps = $data.steps -}}
+{{- else -}}
+  {{- $steps = slice
+      (dict "title" "Share the files" "body" "Send CAD or prints; we confirm scope and timing.")
+      (dict "title" "We machine in-house" "body" "We program, machine, and inspect on our mill, lathe, and printers.")
+      (dict "title" "Review & iterate" "body" "You get measurement notes and parts, ready for the next rev.")
+    -}}
+{{- end -}}
+<section class="how-we-work">
+  <div class="how-we-work__header">
+    <h3>{{ with $data.headline }}{{ . }}{{ else }}How We Work{{ end }}</h3>
+  </div>
+  <div class="how-steps">
+    {{- range $index, $step := $steps -}}
+      <article class="how-step">
+        <span class="how-step__number">{{ add $index 1 }}.</span>
+        <div class="how-step__body">
+          {{- with $step.title }}<h4>{{ . }}</h4>{{ end -}}
+          {{- with $step.body }}<p>{{ . }}</p>{{ end -}}
+        </div>
+      </article>
+    {{- end -}}
+  </div>
+</section>

@@ -4,42 +4,52 @@ description: "Seattle-based CNC machining and mechatronics consulting. Fast turn
 keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", "mechatronics consulting", "aerospace machining"]
 ---
 
-## From Complex Idea to Precision Part, Faster.
-
-Future Present Labs is your integrated engineering and manufacturing partner in Seattle, combining advanced mechatronics consulting with in-house rapid prototyping and precision CNC machining to bring your most ambitious projects to life.
-
-[**Get a Quote or Consultation**](#contact)
+<div class="hero-grid">
+  <div class="hero-copy">
+    <p class="hero-eyebrow">{{< hero-text key="eyebrow" default="Integrated engineering + manufacturing" >}}</p>
+    <h2>{{< hero-text key="title" default="From Complex Idea to Precision Part, Faster." >}}</h2>
+    <p>{{< hero-text key="summary" default="Future Present Labs is a small Seattle shop with a single 4-axis CNC mill, a CNC lathe, and a couple of 3D printers. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor." >}}</p>
+    <ul class="hero-tags">
+      <li>4-axis CNC milling</li>
+      <li>Lathe &amp; small assemblies</li>
+      <li>Embedded test + tooling</li>
+    </ul>
+    <div class="cta-stack">
+      <a class="quote-button" href="https://quote.fpl.dev/new" target="_blank" rel="noopener">Start an Instant Quote</a>
+      <a class="cta-secondary" href="#contact">Prefer a consultation? Talk with an engineer.</a>
+    </div>
+  </div>
+  <div class="hero-panel">
+    <p class="panel-eyebrow">{{< hero-text key="panel_eyebrow" default="What teams gain" >}}</p>
+    <p class="panel-summary">{{< hero-text key="panel_summary" default="Typical jobs: prototype brackets, housings, fixtures, and simple harness tooling. Most repeat work starts within two business days." >}}</p>
+    {{< hero-stats >}}
+  </div>
+</div>
 
 ---
 
-### Trusted by Innovators in Aerospace and Beyond
-We are the trusted development partner for companies pushing the boundaries of technology.
-
-[**Hear from our clients.**](/categories/partnerships)
+{{< trusted-by >}}
 
 ---
 
-### Your Seamless Path from Concept to Component
-Tired of the friction between design and manufacturing? Our integrated workflow eliminates delays and communication gaps, turning your vision into reality with unmatched speed and reliability.
+{{< how-we-work >}}
 
 ---
 
-### The Partner You Can Rely On
-Why do leading technology companies choose Future Present Labs? We deliver a strategic advantage.
+### Core capabilities
+{{< capabilities-grid >}}
 
-#### Quick Turnaround Times
-Our integrated workflow and Seattle location mean faster iteration cycles and shorter lead times, getting your product to market ahead of the competition.
+---
 
-#### Uncompromising Precision
-We combine state-of-the-art equipment with rigorous quality control to deliver components that meet the most demanding tolerances for industries like aerospace and robotics.
-
-#### Integrated Engineering Expertise
-Don't just get a part, get a solution. Our engineers work with you to ensure your design is robust, efficient, and optimized for manufacturing from day one.
+### When to reach out
+<ul class="simple-list">
+  <li>Prototype parts or short batches that need a quick turnaround.</li>
+  <li>Fixtures, brackets, or small assemblies that benefit from machining and printing together.</li>
+  <li>Projects close enough to Seattle that handoffs or visits make sense.</li>
+</ul>
 
 ---
 
 ### Making the Future a Reality for Our Clients
 
-{{< contact header="Ready to Build the Future?" body="Tell us about your project. Whether you have a complete CAD file ready for a machining quote or an early-stage concept that needs engineering expertise, we're here to help. Fill out the form below, and our Seattle-based team will get back to you promptly.">}}
-
-
+{{< contact header="Ready to Build the Future?" body="Tell us about your project. Whether you have a CAD file ready for machining or a rough concept that needs guidance, we’re here to help.">}}

@@ -1,0 +1,20 @@
+{{- $stats := site.Params.hero_stats -}}
+{{- if not $stats -}}
+  {{- $stats = slice
+    (dict "value" "48 hr" "label" "typical start for repeat work")
+    (dict "value" "10k+" "label" "parts, fixtures, and tools delivered since 2018")
+    (dict "value" "1 shop" "label" "handling machining, light printing, and bench support")
+  -}}
+{{- end -}}
+{{- if gt (len $stats) 0 -}}
+<ul class="hero-metrics">
+  {{- range $stats -}}
+    {{- if and .value .label -}}
+      <li>
+        <span class="metric-value">{{ .value }}</span>
+        <span class="metric-label">{{ .label }}</span>
+      </li>
+    {{- end -}}
+  {{- end -}}
+</ul>
+{{- end -}}

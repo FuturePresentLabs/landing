@@ -1,0 +1,41 @@
+{{- $trusted := .Page.Params.trusted_by -}}
+{{- if not $trusted -}}
+  {{- $trusted = site.Params.trusted_by -}}
+{{- end -}}
+{{- $logos := slice -}}
+{{- if and $trusted $trusted.logos -}}
+  {{- $logos = $trusted.logos -}}
+{{- end -}}
+{{- if gt (len $logos) 0 -}}
+<section class="trusted-by" aria-label="{{ default "Trusted by industry leaders" $trusted.heading }}">
+  <div class="trusted-shell">
+    <div class="trusted-copy">
+      {{- with $trusted.eyebrow -}}<p class="trusted-eyebrow">{{ . }}</p>{{- end -}}
+      {{- with $trusted.heading -}}<h3>{{ . }}</h3>{{- end -}}
+      {{- with $trusted.caption -}}<p class="trusted-caption">{{ . }}</p>{{- end -}}
+      {{- with $trusted.cta -}}
+        {{- if and .label .url -}}
+          <a class="trusted-cta" href="{{ .url }}">{{ .label }}</a>
+        {{- end -}}
+      {{- end -}}
+    </div>
+    <div class="logo-carousel">
+      {{- range $index, $_ := (seq 2) -}}
+        <div class="logo-track{{ if eq $index 1 }} is-delayed{{ end }}">
+          {{- range (seq 5) -}}
+            {{- range $logos -}}
+              <span class="logo-item">
+                {{- if .image -}}
+                  <img src="{{ .image }}" alt="{{ default (printf "%s logo" (default "Client" .label)) .alt }}">
+                {{- else if .label -}}
+                  {{ .label }}
+                {{- end -}}
+              </span>
+            {{- end -}}
+          {{- end -}}
+        </div>
+      {{- end -}}
+    </div>
+  </div>
+</section>
+{{- end -}}
