@@ -1,0 +1,9 @@
+{{- $contact := site.Params.contact -}}
+<div class="contact-info">
+  {{- with $contact.email -}}
+    <p><strong>Email:</strong> <a href="mailto:{{ . }}">{{ . }}</a></p>
+  {{- end -}}
+  {{- with $contact.phone -}}
+    <p><strong>Phone:</strong> {{ . }}</p>
+  {{- end -}}
+</div>

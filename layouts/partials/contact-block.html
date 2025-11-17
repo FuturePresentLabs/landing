@@ -1,0 +1,123 @@
+{{ $site := .Site }}
+{{ $header := .header | default "Let's Talk" }}
+{{ $body := .body | default "Have questions, a project in mind, or ready to pick a package? We’re here to help—reach out and start the conversation:" }}
+{{ $contact := $site.Params.contact }}
+{{ $email := $contact.email | default "info@fpl.dev" }}
+{{ $phone := $contact.phone | default "(206) 280-8273" }}
+
+<style>
+.contact-block {
+  margin-top: 2.5rem;
+  padding: 2rem;
+  border-left: 4px solid #0C5DF4;
+  background-color: #f5f7ff;
+  border-radius: 6px;
+  box-shadow: 0 10px 25px rgba(14, 33, 77, 0.12);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.contact-block h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.contact-copy p {
+  margin-bottom: 0.75rem;
+}
+
+.contact-copy ul {
+  padding-left: 1.2rem;
+  margin: 0;
+  color: #334155;
+}
+
+.contact-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.contact-btn {
+  display: inline-block;
+  text-align: center;
+  font-weight: 600;
+  padding: 0.85rem 1rem;
+  border-radius: 999px;
+  border: 2px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.contact-btn.primary {
+  background-color: #0f172a;
+  color: #fff;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.35);
+}
+
+.contact-btn.primary:hover,
+.contact-btn.primary:focus {
+  background-color: #020617;
+  text-decoration: none;
+}
+
+.contact-btn.secondary {
+  background-color: #fff;
+  color: #0f172a;
+  border-color: #0f172a;
+}
+
+.contact-btn.secondary:hover,
+.contact-btn.secondary:focus {
+  color: #020617;
+  border-color: #020617;
+  text-decoration: none;
+}
+
+.contact-meta {
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+
+.contact-meta a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+@media (min-width: 768px) {
+  .contact-block {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .contact-copy {
+    max-width: 60%;
+  }
+
+  .contact-actions {
+    max-width: 280px;
+  }
+}
+</style>
+
+<div class="contact-block" id="contact">
+  <div class="contact-copy">
+    <h2>{{ $header }}</h2>
+    <p>{{ $body }}</p>
+    <ul>
+      <li>Need a quick perspective on manufacturability, tolerances, or fixturing.</li>
+      <li>Want to bundle firmware, testing, or integration work with machining.</li>
+      <li>Require NDA coverage, secure data handling, or on-site collaboration.</li>
+    </ul>
+  </div>
+  <div class="contact-actions">
+    {{ partial "home-cta.html" (dict "Site" $site "class" "contact-btn primary") }}
+    <a class="contact-btn secondary" href="/contact">Share Project Details</a>
+    <p class="contact-meta">
+      Email <a href="mailto:{{ $email }}">{{ $email }}</a><br>
+      Call {{ $phone }} · Replies &lt; 1 business day
+    </p>
+  </div>
+</div>

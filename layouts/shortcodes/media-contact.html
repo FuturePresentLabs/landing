@@ -1,0 +1,65 @@
+{{ $contact := site.Params.contact }}
+{{ $media := $contact.media }}
+{{ $eyebrow := .Get "eyebrow" | default "Media Contact" }}
+{{ $name := .Get "name" | default (cond (isset $media "name") $media.name "Media Relations") }}
+{{ $title := .Get "title" | default (cond (isset $media "title") $media.title "Future Present Labs") }}
+{{ $email := .Get "email" | default (cond (isset $media "email") $media.email $contact.email) }}
+{{ $phone := .Get "phone" | default (cond (isset $media "phone") $media.phone $contact.phone) }}
+
+<style>
+.media-contact-card {
+  margin: 2rem 0;
+  padding: 1.75rem;
+  border-radius: 8px;
+  border-left: 4px solid #0C5DF4;
+  background: #f5f7ff;
+  box-shadow: 0 15px 40px rgba(15, 23, 42, 0.08);
+}
+
+.media-contact-eyebrow {
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #475569;
+  margin-bottom: 0.4rem;
+  display: block;
+}
+
+.media-contact-name {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.media-contact-title {
+  margin: 0 0 0.5rem;
+  color: #475569;
+}
+
+.media-contact-summary {
+  margin: 0 0 1rem;
+  color: #334155;
+}
+
+.media-contact-links a {
+  font-weight: 600;
+  color: #0C5DF4;
+}
+
+.media-contact-links a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="media-contact-card">
+  <span class="media-contact-eyebrow">{{ $eyebrow }}</span>
+  <p class="media-contact-name">{{ $name }}</p>
+  <p class="media-contact-title">{{ $title }}</p>
+  <p class="media-contact-summary">For press kits, interviews, or partnership announcements, reach out to our media desk below.</p>
+  <div class="media-contact-links">
+    <p>Email: <a href="mailto:{{ $email }}?subject=Media%20Inquiry">{{ $email }}</a></p>
+    {{- if $phone -}}
+      <p>Phone: <a href="tel:{{ $phone | replaceRE "[^+0-9]" "" }}">{{ $phone }}</a></p>
+    {{- end -}}
+  </div>
+</div>

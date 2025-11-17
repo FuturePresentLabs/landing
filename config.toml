@@ -52,9 +52,14 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   [params.hero]
     eyebrow = "Integrated engineering + manufacturing"
     title = "From Complex Idea to Precision Part, Faster."
-    summary = "Future Present Labs is a small Seattle shop with a single 4-axis CNC mill, a CNC lathe, and a couple of 3D printers. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
-    panel_eyebrow = "What teams gain"
-    panel_summary = "Typical jobs: prototype brackets, housings, fixtures, and simple harness tooling. Most repeat work starts within two business days."
+    summary = "Future Present Labs is a small Seattle shop. Our capacilities include 4-axis CNC milling, CNC turning, and 3D printing. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
+    panel_eyebrow = "By the numbers"
+    panel_summary = "Most repeat work starts within a business day. Below are a few stats about what we're up to."
+  [params.home_cta]
+    # label = "Start an Instant Quote"
+    # url = "https://quote.fpl.dev/new"
+    label = "Get in Touch"
+    url = "/contact"
   [params.style]                             # CSS style overrides
     backgroundColor = "#f8f9fa"
     homeImageBorderColor = "#ffffff"
@@ -77,11 +82,11 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   #   href = ""
 
   [[params.hero_stats]]
-    value = "1k+"
-    label = "Parts delivered last month"
+    value = "1,000+  "
+    label = "Parts made and shipped last month"
   [[params.hero_stats]]
-    value = "48 hr"
-    label = "Typical start for repeat work"
+    value = "24 hr"
+    label = "Lead time to start repeat work"
   [[params.hero_stats]]
     value = "0.001\""
     label = "Tight tolerances where you need them"
@@ -100,20 +105,29 @@ copyright = "&copy; 2025, Future Present Labs LLC."
 
   [[params.capabilities]]
     title = "CNC machining"
-    body = "4-axis milling in aluminum, stainless, tool steels, and engineering plastics. Setups stay ready for quick reruns."
-    bullets = ["Prototype and bridge production", "In-process probing + inspection notes", "Surface finishing through local partners"]
+    body = "4-axis milling in aluminum, stainless, brass, titanium, and engineering plastics. Setups stay ready for quick reruns."
+    bullets = ["Prototyping and production runs", "Custom Fixturing", "Surface finishing through local partners"]
   [[params.capabilities]]
     title = "CNC turning"
     body = "Lathe Turning for bushings, shafts, and housings with hand-fit checks before shipping."
-    bullets = ["Quick-change workholding for short runs", "Threading, grooving, and parting tools on-hand", "Assemblies bagged, tagged, and ready for test"]
+    bullets = ["Brass, Aluminum, Delrin & More", "Threading, grooving, and parting tools on-hand", "From 5 parts to 500+"]
   [[params.capabilities]]
     title = "3D printing"
     body = "Carbon-filled nylon and engineering-grade plastics for tooling, fixtures, and workholding."
-    bullets = ["Printer-ready in hours for fixtures or nests", "Hybrid prints + machined plates for rigid tooling", "Lightweight hardware for mockups and demos"]
+    bullets = ["Printer-ready in hours for fixtures or quick parts", "Hybrid Carbon Nylon prints + machined plates for rigid tooling", "Bulk PA6-CF Parts"]
   [[params.capabilities]]
     title = "Software Development"
     body = "Lightweight firmware, scripts, and automation to get business problems solved fast."
     bullets = ["Inventory management + e-commerce", "Data logging or control scripts for test rigs", "Apps to link tooling, machining, and reporting"]
+
+  [params.contact]
+    email = "info@fpl.dev"
+    phone = "(206) 651-4573"
+    [params.contact.media]
+      name = "Media Relations"
+      title = "Future Present Labs"
+      email = "info@fpl.dev"
+      phone = "(206) 651-4573"
 
   [params.trusted_by]
     eyebrow = "Trusted by"

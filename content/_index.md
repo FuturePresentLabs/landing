@@ -15,7 +15,7 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
       <li>Embedded test + tooling</li>
     </ul>
     <div class="cta-stack">
-      <a class="quote-button" href="https://quote.fpl.dev/new" target="_blank" rel="noopener">Start an Instant Quote</a>
+      {{< home-cta class="quote-button" >}}
       <a class="cta-secondary" href="#contact">Prefer a consultation? Talk with an engineer.</a>
     </div>
   </div>
@@ -41,12 +41,19 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
 
 ---
 
-### When to reach out
-<ul class="simple-list">
-  <li>Prototype parts or short batches that need a quick turnaround.</li>
-  <li>Fixtures, brackets, or small assemblies that benefit from machining and printing together.</li>
-  <li>Projects close enough to Seattle that handoffs or visits make sense.</li>
-</ul>
+### Instant quoting built for prototypes
+<div class="quote-panel">
+  <p>Upload CAD, prints, or even a napkin sketch. Our quoting flow calls out risks, suggests materials, and books the next open slot on the mill or lathe.</p>
+  <ul>
+    <li>Supports STEP, Parasolid, Fusion 360, and SolidWorks files</li>
+    <li>Material and finish suggestions baked in</li>
+    <li>Secure uploads with quick human follow-up if anything looks off</li>
+  </ul>
+  <div class="quote-actions">
+    {{< home-cta class="quote-button" >}}
+    <p class="quote-note">Prefer to walk through it on a call? Use the contact form below.</p>
+  </div>
+</div>
 
 ---
 

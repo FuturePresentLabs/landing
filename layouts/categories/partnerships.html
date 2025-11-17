@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="partner-intro">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}{{ . }}{{ else }}
+    <p>Selected stories from teams that trust Future Present Labs.</p>
+  {{ end }}
+</section>
+
+<div class="partner-grid">
+  {{ range .Pages }}
+    <article class="partner-card">
+      {{ with .Params.logo }}
+        <img src="{{ . }}" alt="{{ $.Title }} logo">
+      {{ else }}
+        <h3>{{ .Title }}</h3>
+      {{ end }}
+      {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+      <a href="{{ .RelPermalink }}">Read the story</a>
+    </article>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,7 @@
+{{ $params := dict
+  "Site" .Page.Site
+  "class" (.Get "class")
+  "label" (.Get "label")
+  "url" (.Get "url")
+}}
+{{ partial "home-cta.html" $params }}
