@@ -14,7 +14,7 @@ tags:
 
 In the last twenty or so years of technological development, the world lept forward in terms of convenience, automation, and consumer expectations. But almost as outpacing those consumers, the demand for profit seemingly soared higher. 
 
-Looking for ways to gain more users, more market share, more extract-able value from personal data, companies like Google, Apple, and Meta created “walled gardens” with seemingly benign barriers to entry. Type in an email, a username, a password. Check a box with some “terms” some “conditions”, then site back and watch as your dreams come to life on a little rectangle that fits in your hand.
+Looking for ways to gain more users, more market share, more extract-able value from personal data, companies like Google, Apple, and Meta created “walled gardens” with seemingly benign barriers to entry. Type in an email, a username, a password. Check a box with some “terms” some “conditions”, then sit back and watch as your dreams come to life on a little rectangle that fits in your hand.
 
 Fast forward to 2024, I grew up with technology directing my every day life. The internet and I have becoming one, dancing around my daily routine to keep in touch with friends, manage my workload, or simply finding hits of dopamine while scrolling to take a break from it all.
 
@@ -30,7 +30,7 @@ But it was more than just dumb videos on the internet, a poor design, or technic
 
 But why does it have to be this way? Clearly it doesn’t. I know many intelligent people who also sift through the noise day to day, longing for change. But why don’t things change?
 
-It’s because people are scared. Scarred of ripping the band-aid off. Scarred to look themselves, or more realistically their software, in the mirror and see all of the excess, the waste.
+It's because people are scared. Scared of ripping the band-aid off. Scared to look themselves, or more realistically their software, in the mirror and see all of the excess, the waste.
 
 How many websites are out there? Many…. so so many. But back in the day, it was just HTML, CSS, and JS. Before that even less. But today? Today if you want to build a “product” or a “company” there are so so many things one must buy into, onboard to. 
 

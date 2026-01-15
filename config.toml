@@ -52,7 +52,7 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   [params.hero]
     eyebrow = "Integrated engineering + manufacturing"
     title = "From Complex Idea to Precision Part, Faster."
-    summary = "Future Present Labs is a small Seattle shop. Our capacilities include 4-axis CNC milling, CNC turning, and 3D printing. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
+    summary = "Future Present Labs is a small Seattle shop. Our capabilities include 4-axis CNC milling, CNC turning, 3D printing, silicon mold-making, cerakoting and laser engraving. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
     panel_eyebrow = "By the numbers"
     panel_summary = "Most repeat work starts within a business day. Below are a few stats about what we're up to."
   [params.home_cta]
@@ -132,7 +132,7 @@ copyright = "&copy; 2025, Future Present Labs LLC."
   [params.trusted_by]
     eyebrow = "Trusted by"
     heading = "From Entertainment to National Defense - We Have Your Back."
-    caption = "Our parts & software power everything from your favorite bars and clubs, to defense manufactures protecting the nation and it's people."
+    caption = "Our parts & software power everything from your favorite bars and clubs, to defense manufactures protecting the nation and its people."
   [params.trusted_by.cta]
     label = "See the full client stories"
     url = "/categories/partnerships"
