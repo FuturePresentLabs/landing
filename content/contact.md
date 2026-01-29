@@ -120,7 +120,7 @@ keywords: ["CNC machining quote", "engineering consulting Seattle", "contact Fut
         <li>Call if security, firmware, or on-site work is involved.</li>
       </ul>
       <div class="contact-actions-compact">
-        <a class="quote-button" href="https://quote.fpl.dev/new" target="_blank" rel="noopener">Start an instant quote</a>
+        <a class="quote-button" href="https://quote.fpl.dev" target="_blank" rel="noopener">Start an instant quote</a>
       </div>
     </div>
     <div class="contact-card">

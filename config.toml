@@ -57,7 +57,7 @@ copyright = "&copy; 2025, Future Present Labs LLC."
     panel_summary = "Most repeat work starts within a business day. Below are a few stats about what we're up to."
   [params.home_cta]
     # label = "Start an Instant Quote"
-    # url = "https://quote.fpl.dev/new"
+    # url = "https://quote.fpl.dev/"
     label = "Get in Touch"
     url = "/contact"
   [params.style]                             # CSS style overrides
