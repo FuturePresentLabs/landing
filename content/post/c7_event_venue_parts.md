@@ -4,7 +4,7 @@ date: 2025-08-15
 description: "Future Present Labs is fabricating custom hardware, lighting fixtures, and interactive components for C7’s experiential venue buildout."
 keywords: ["C7", "event venue", "custom fabrication", "Future Present Labs", "experiential design", "Seattle nightlife"]
 categories: ["Partnerships", "Experiential"]
-draft: true
+draft: false
 ---
 
 **SEATTLE, WA – November 15, 2025** – Future Present Labs has begun fabricating custom components for C7 Belevue, a luxury Bellevue event space undergoing ongoing interior updates.
