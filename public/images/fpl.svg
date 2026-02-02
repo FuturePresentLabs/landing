@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="100mm"
+   viewBox="0 0 210 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="fpl.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.52410024"
+     inkscape:cx="403.54875"
+     inkscape:cy="554.28328"
+     inkscape:window-width="1920"
+     inkscape:window-height="958"
+     inkscape:window-x="1921"
+     inkscape:window-y="220"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="248.04414"
+       y="354.89395"
+       width="358.70999"
+       height="167.90681"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="path2"
+       cx="105.00536"
+       cy="49.726093"
+       rx="65.123512"
+       ry="36.095592"
+       inkscape:label="oval" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.306329;stroke-opacity:1"
+       id="path4"
+       cx="104.75294"
+       cy="49.978504"
+       rx="51.219723"
+       ry="28.2498"
+       inkscape:label="white" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.31850506,0,0,0.31850506,-31.280581,-87.43725)"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124px;font-family:Copperplate;-inkscape-font-specification:Copperplate;text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#000000;stroke:#000000;stroke-opacity:1"
+       x="9.8261719"
+       y="0"><tspan
+         x="310.28142"
+         y="463.79236"
+         id="tspan1">FPL</tspan></text>
+  </g>
+</svg>

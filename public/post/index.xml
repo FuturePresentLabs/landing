@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <link>https://fpl.dev/post/</link>
+    <description>Recent content in Posts on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fpl.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C7 Bellevue Taps FPL for Custom Parts Across Its Flagship Event Venue</title>
+      <link>https://fpl.dev/post/c7_event_venue_parts/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/post/c7_event_venue_parts/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SEATTLE, WA – November 15, 2025&lt;/strong&gt; – Future Present Labs has begun fabricating custom components for C7 Belevue, a luxury Bellevue event space undergoing ongoing interior updates.&lt;/p&gt;&#xA;&lt;p&gt;The current scope includes custom light fixture housings, machined metal keepsakes, and architectural shrouds designed to conceal reconfigured equipment mounting points while maintaining the venue&amp;rsquo;s aesthetic.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Event spaces need hardware that looks intentional but can take a beating,&amp;rdquo; said Avery Wagar, CEO of Future Present Labs. &amp;ldquo;We&amp;rsquo;re working directly with C7&amp;rsquo;s team to prototype and produce pieces that fit their operational reality—quick turnarounds, field-adjustable designs, and finishes that don&amp;rsquo;t look like afterthoughts.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Player Aerospace Partners with FPL to Accelerate Rocket System Production</title>
+      <link>https://fpl.dev/post/player_announce/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/post/player_announce/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Future Present Labs will provide specialized CNC machining and engineering consulting from its Seattle facility to scale manufacturing for Player Aerospace’s critical hardware.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEATTLE, WA – July 24, 2025&lt;/strong&gt; – Player Aerospace, a pioneer in advanced propulsion, today announced a strategic manufacturing partnership with Future Present Labs (FPL), an expert in precision engineering and rapid prototyping. The collaboration is designed to scale production and accelerate the deployment of Player Aerospace’s innovative rocket technologies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Large Enterprise Client Achieves 30% Higher Workload Density with Shroud MicroVM Orchestration</title>
+      <link>https://fpl.dev/post/shroud_case_study/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/post/shroud_case_study/</guid>
+      <description>&lt;h3 id=&#34;streamlining-critical-operations-with-on-premise-ultra-low-overhead-compute&#34;&gt;Streamlining Critical Operations with On-Premise, Ultra-Low-Overhead Compute&lt;/h3&gt;&#xA;&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;&#xA;&lt;p&gt;A large enterprise client, responsible for sensitive data processing and mission-critical applications in a highly regulated sector, faced escalating challenges with its legacy compute infrastructure. Relying on traditional virtual machines (VMs) and commercial container platforms, the organization observed significant operational overhead. Resource contention, ballooning software licensing costs, and the inherent abstraction layers of existing solutions led to suboptimal compute density on their bare-metal servers. Furthermore, stringent security compliance requirements for handling sensitive workloads presented continuous hurdles with complex cloud integrations, driving a strategic need for self-hosted, fully controllable infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>https://fpl.dev/post/hello_world/</link>
+      <pubDate>Fri, 23 May 2025 13:35:00 +0100</pubDate>
+      <guid>https://fpl.dev/post/hello_world/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away” - &lt;a href=&#34;https://www.goodreads.com/author/quotes/1020792.Antoine_de_Saint_Exup_ry&#34;&gt;Antoine de Saint-Exupéry&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;In the last twenty or so years of technological development, the world lept forward in terms of convenience, automation, and consumer expectations. But almost as outpacing those consumers, the demand for profit seemingly soared higher.&lt;/p&gt;&#xA;&lt;p&gt;Looking for ways to gain more users, more market share, more extract-able value from personal data, companies like Google, Apple, and Meta created “walled gardens” with seemingly benign barriers to entry. Type in an email, a username, a password. Check a box with some “terms” some “conditions”, then sit back and watch as your dreams come to life on a little rectangle that fits in your hand.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

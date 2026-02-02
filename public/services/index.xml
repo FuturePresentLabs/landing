@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <link>https://fpl.dev/services/</link>
+    <description>Recent content in Services on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fpl.dev/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAD, CAM &amp; CNC Services</title>
+      <link>https://fpl.dev/services/cnc/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/services/cnc/</guid>
+      <description>&lt;p&gt;We offer design and fabrication services for early-stage hardware, precision parts, and one-off prototypes.&lt;/p&gt;&#xA;&lt;p&gt;Our in-house tools include a CNC mill, lathe, sandblaster, and multiple 3D printers—ideal for iterative development and small-batch production.&lt;/p&gt;&#xA;&lt;h4 id=&#34;what-we-offer&#34;&gt;What We Offer&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;CAD + CAM for a Specific Part&lt;/strong&gt;&lt;br&gt;&#xA;Send us a rough sketch or spec—we’ll model the part, generate toolpaths, and machine it in-house.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Small Prototyping Runs&lt;/strong&gt;&lt;br&gt;&#xA;Need 2–10 units for fit checks, field testing, or investor demos? We can help.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infrastructure Consulting</title>
+      <link>https://fpl.dev/services/infra/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/services/infra/</guid>
+      <description>&lt;p&gt;Planning a new product or platform? We help you design the right foundation from the start—whether you&amp;rsquo;re building a robust monolith, adopting microservices, or deploying without the cloud entirely.&lt;/p&gt;&#xA;&lt;p&gt;Our architecture reviews are tailored to your goals, team size, and risk profile. We&amp;rsquo;ll help you evaluate tradeoffs and make informed decisions about stack, hosting, deployment, and scale.&lt;/p&gt;&#xA;&lt;h4 id=&#34;engagement-options&#34;&gt;Engagement Options&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Architecture &amp;amp; Infrastructure Review&lt;/strong&gt; – $700&#xA;A one-time consultation for new projects.&#xA;Includes a written design brief outlining requirements, tradeoffs, and a recommended starting architecture—with diagrams to support communication and decision-making.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ongoing Support</title>
+      <link>https://fpl.dev/services/support/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/services/support/</guid>
+      <description>&lt;p&gt;We offer ongoing support for all websites and infrastructure we deploy, tailored to your operational needs.&lt;/p&gt;&#xA;&lt;p&gt;Whether you need regular updates, content changes, security patches, or emergency response—we’re available to keep your site fast, reliable, and secure.&lt;/p&gt;&#xA;&lt;h3 id=&#34;support-includes&#34;&gt;Support Includes&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Content and design updates&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Performance tuning and CDN config changes&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security patches and dependency upgrades&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Incident response&lt;/strong&gt; for outages, misconfigurations, or regressions&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ticket tracking&lt;/strong&gt; with clear response timelines and resolution statuses&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Detailed postmortems (RCA)&lt;/strong&gt; for major incidents or SLA breaches&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our support plans are SLA-backed, with custom escalation and coverage windows available—including 24/7 on-call.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Website Development &amp; Consultancy Package</title>
+      <link>https://fpl.dev/services/website_blog/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/services/website_blog/</guid>
+      <description>&lt;h4 id=&#34;website-development--consultancy-package&#34;&gt;Website Development &amp;amp; Consultancy Package&lt;/h4&gt;&#xA;&lt;p&gt;We partner with you to launch a fast, functional, and modern web presence—starting with a clean landing page and blog that’s easy to maintain and costs virtually nothing to host long-term (just your annual domain registration).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our team has experience building and maintaining mission-critical systems for government and FAANG-scale infrastructure. We bring that same reliability and rigor to your site—without the overhead.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;base-package--899&#34;&gt;Base Package – $899&lt;/h4&gt;&#xA;&lt;p&gt;Includes:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

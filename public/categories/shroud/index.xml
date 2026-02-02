@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shroud on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <link>https://fpl.dev/categories/shroud/</link>
+    <description>Recent content in Shroud on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fpl.dev/categories/shroud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large Enterprise Client Achieves 30% Higher Workload Density with Shroud MicroVM Orchestration</title>
+      <link>https://fpl.dev/post/shroud_case_study/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/post/shroud_case_study/</guid>
+      <description>&lt;h3 id=&#34;streamlining-critical-operations-with-on-premise-ultra-low-overhead-compute&#34;&gt;Streamlining Critical Operations with On-Premise, Ultra-Low-Overhead Compute&lt;/h3&gt;&#xA;&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;&#xA;&lt;p&gt;A large enterprise client, responsible for sensitive data processing and mission-critical applications in a highly regulated sector, faced escalating challenges with its legacy compute infrastructure. Relying on traditional virtual machines (VMs) and commercial container platforms, the organization observed significant operational overhead. Resource contention, ballooning software licensing costs, and the inherent abstraction layers of existing solutions led to suboptimal compute density on their bare-metal servers. Furthermore, stringent security compliance requirements for handling sensitive workloads presented continuous hurdles with complex cloud integrations, driving a strategic need for self-hosted, fully controllable infrastructure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

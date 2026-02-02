@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <link>https://fpl.dev/categories/</link>
+    <description>Recent content in Categories on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
+    <lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fpl.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiential</title>
+      <link>https://fpl.dev/categories/experiential/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/categories/experiential/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partnerships</title>
+      <link>https://fpl.dev/categories/partnerships/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/categories/partnerships/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aerospace</title>
+      <link>https://fpl.dev/categories/aerospace/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/categories/aerospace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Case Study</title>
+      <link>https://fpl.dev/categories/case-study/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/categories/case-study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shroud</title>
+      <link>https://fpl.dev/categories/shroud/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/categories/shroud/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
