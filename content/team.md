@@ -26,7 +26,6 @@ description: "Meet the team behind Future Present Labs"
 <h3>Nick Kust</h3>
 <p class="team-role">Head of Product</p>
 <p>Nick leads product at Future Present Labs, shaping the tools and systems that power agentic manufacturing. Born in Moscow and educated at the University of Washington (Economics, Class of 2025), he brings a global perspective to building product infrastructure for modern fabrication workflows. Nick focuses on bridging the gap between complex manufacturing processes and intuitive user experiences.</p>
-<p><a href="https://www.linkedin.com/in/carpe-diem-nunc" target="_blank" rel="noopener">LinkedIn →</a></p>
 </div>
 
 </div>
