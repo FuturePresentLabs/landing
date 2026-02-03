@@ -66,6 +66,32 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
 
 ---
 
+### Instant Quoting for Fast-Paced Teams
+
+<div class="instant-quote-card" style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2.5rem; border-radius: 12px; margin: 2rem 0; border: 2px solid #dee2e6;">
+  <div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
+    <div style="flex: 0 0 280px; text-align: center;">
+      <img src="/images/instant-quote/quote-process.png" alt="Instant Quoting Process" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 1; min-width: 280px;">
+      <h3 style="color: #495057; margin-top: 0; font-size: 1.5rem;">⚡ Get Quotes in Hours, Not Days</h3>
+      <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem; color: #212529;">
+        Upload your CAD files and receive transparent pricing within hours. 
+        No more waiting days for machine shop quotes. Know your costs fast and keep your project moving.
+      </p>
+      <ul style="margin-bottom: 1.5rem; padding-left: 1.5rem; color: #495057;">
+        <li style="margin-bottom: 0.5rem;">Automated DFM analysis included</li>
+        <li style="margin-bottom: 0.5rem;">Transparent pricing—no hidden fees</li>
+        <li style="margin-bottom: 0.5rem;">2-4 hour turnaround on most quotes</li>
+        <li style="margin-bottom: 0.5rem;">CNC machining, 3D printing & more</li>
+      </ul>
+      <a href="/instant-quoting/" style="display: inline-block; background: #495057; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; font-weight: 600;">Learn About Instant Quoting →</a>
+    </div>
+  </div>
+</div>
+
+---
+
 ### Instant quoting built for prototypes
 <div class="quote-panel">
   <p>Upload CAD, prints, or even a napkin sketch. Our quoting flow calls out risks, suggests materials, and books the next open slot on the mill or lathe.</p>
