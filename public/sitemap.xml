@@ -2,23 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fpl.dev/post/c7_event_venue_parts/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <loc>https://fpl.dev/categories/agentic-manufacturing/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/agentrfq/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/agents/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/announcing-agentrfq/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/manufacturing/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/open-source/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/categories/standards/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/</loc>
+    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/agentic-manufacturing-jarvis-moment/</loc>
+    <lastmod>2026-02-01T03:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/categories/agents/</loc>
+    <lastmod>2026-02-01T03:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/fpl/</loc>
+    <lastmod>2026-02-01T03:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/categories/manufacturing/</loc>
+    <lastmod>2026-02-01T03:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/prototyping/</loc>
+    <lastmod>2026-02-01T03:20:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/c7_event_venue_parts/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/experiential/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/categories/partnerships/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/post/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <loc>https://fpl.dev/categories/defense/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/gsg_mfg_partnership/</loc>
+    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/aerospace/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
@@ -50,9 +95,6 @@
     <loc>https://fpl.dev/services/website_blog/</loc>
     <lastmod>2025-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/tags/fpl/</loc>
-    <lastmod>2025-05-23T13:35:00+01:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/post/hello_world/</loc>
     <lastmod>2025-05-23T13:35:00+01:00</lastmod>
   </url><url>
@@ -60,9 +102,6 @@
     <lastmod>2025-05-23T13:35:00+01:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/tags/software/</loc>
-    <lastmod>2025-05-23T13:35:00+01:00</lastmod>
-  </url><url>
-    <loc>https://fpl.dev/tags/</loc>
     <lastmod>2025-05-23T13:35:00+01:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/about/</loc>

@@ -2,7 +2,7 @@
 title: "Announcing AgentRFQ: An Open Standard for Agent-to-Manufacturer Requests"
 author: TheseusFloats
 date: 2026-02-02T04:30:00-08:00
-draft: true
+draft: false
 description: "We're releasing AgentRFQ 1.0.0 — an open JSON standard for AI agents to request manufacturing quotes from human-approved fulfillment workflows."
 keywords: ["AgentRFQ", "manufacturing", "AI agents", "open standard", "CAD", "automation", "Future Present Labs"]
 categories: ["Standards", "Agentic Manufacturing"]

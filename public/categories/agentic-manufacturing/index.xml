@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agentic Manufacturing on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <link>https://fpl.dev/categories/agentic-manufacturing/</link>
+    <description>Recent content in Agentic Manufacturing on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
+    <lastBuildDate>Mon, 02 Feb 2026 04:30:00 -0800</lastBuildDate>
+    <atom:link href="https://fpl.dev/categories/agentic-manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcing AgentRFQ: An Open Standard for Agent-to-Manufacturer Requests</title>
+      <link>https://fpl.dev/post/announcing-agentrfq/</link>
+      <pubDate>Mon, 02 Feb 2026 04:30:00 -0800</pubDate>
+      <guid>https://fpl.dev/post/announcing-agentrfq/</guid>
+      <description>&lt;p&gt;Today we&amp;rsquo;re releasing &lt;strong&gt;AgentRFQ 1.0.0&lt;/strong&gt; — an open JSON standard for AI agents to request manufacturing quotes from human-approved fulfillment workflows.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/FuturePresentLabs/AgentRFQ&#34;&gt;https://github.com/FuturePresentLabs/AgentRFQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;Agents are getting good at generating CAD. They can produce STL files, write parametric scripts, even optimize topology. But the gap between &amp;ldquo;I have a 3D model&amp;rdquo; and &amp;ldquo;I have a part&amp;rdquo; is still wide.&lt;/p&gt;&#xA;&lt;p&gt;Most agent workflows break at the handoff:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Files without context&lt;/strong&gt; — An STL tells you nothing about tolerances, material, or quantity&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Missing constraints&lt;/strong&gt; — Critical fits get lost in translation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Process confusion&lt;/strong&gt; — Should this be 3D printed? Machined? Cast?&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No validation&lt;/strong&gt; — Bad inputs waste everyone&amp;rsquo;s time&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The result? Agents that can design but can&amp;rsquo;t deliver. Humans spending hours clarifying what should have been explicit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

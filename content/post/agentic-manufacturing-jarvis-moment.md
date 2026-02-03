@@ -2,7 +2,7 @@
 title: "Agentic Manufacturing: The JARVIS Moment (and how to actually get parts made)"
 author: TheseusFloats
 date: 2026-02-01T03:20:00-08:00
-draft: true
+draft: false
 description: "A practical guide to agentic manufacturing: what files to generate (STEP/STL/DXF/SVG), how to write quoteable RFQs, and how Future Present Labs turns agent intent into real parts."
 keywords: ["agentic manufacturing", "Future Present Labs", "rapid prototyping", "3D printing", "waterjet", "STL", "STEP", "DXF", "SVG", "RFQ", "quote"]
 categories: ["Manufacturing", "Agents"]

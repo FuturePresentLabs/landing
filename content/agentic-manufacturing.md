@@ -57,7 +57,7 @@ Our mission: close that gap.
 
 ### 1. Structured RFQ Support
 
-We accept machine-generated RFQs via [AgentRFQ](/post/rfq-spec/), an open specification we developed for agent-to-manufacturer communication. Send us:
+We accept machine-generated RFQs via [AgentRFQ](https://github.com/FuturePresentLabs/rfq-spec), an open specification we developed for agent-to-manufacturer communication. Send us:
 
 - Part geometry (STEP, STL, or Parasolid)
 - Material specifications
@@ -144,20 +144,17 @@ Future Present Labs is building step 3-6 today. We're the physical infrastructur
 ### Our Writing on Agentic Manufacturing
 
 - **[Agentic Manufacturing: The JARVIS Moment](/post/agentic-manufacturing-jarvis-moment/)** — The philosophical foundation
-- **[The Last Mile of Agentic Manufacturing](/post/last-mile-agentic-manufacturing/)** — Why the handoff matters
-- **[RFQ-Spec 1.0.0: An Open Standard](/post/rfq-spec-100/)** — Technical specification for agent RFQs
-- **[Announcing AgentRFQ](/post/announcing-agentrfq/)** — Launch announcement
+- **[Announcing AgentRFQ](/post/announcing-agentrfq/)** — Launch announcement and technical overview
 
 ### Technical Specifications
 
-- **[AgentRFQ GitHub Repository](https://github.com/FuturePresentLabs/rfq-spec)** — Open source specification, JSON schemas, validation tools
-- **[AgentRFQ Documentation](/rfq-spec/)** — Full spec with examples
+- **[AgentRFQ GitHub Repository](https://github.com/FuturePresentLabs/rfq-spec)** — Open source specification, JSON schemas, validation tools, and examples
 
 ### Case Studies
 
-- **[Player Aerospace Partnership](/post/player-aerospace-partnership/)** — Propulsion components for aerospace
-- **[GSG Manufacturing Partnership](/post/gsg-mfg-partnership/)** — Firearm accessories and fixtures
-- **[Shroud Case Study](/post/shroud-case-study/)** — Precision machining for competitive gaming hardware
+- **[Player Aerospace Partnership](/post/player_announce/)** — Propulsion components for aerospace
+- **[GSG Manufacturing Partnership](/post/gsg_mfg_partnership/)** — Firearm accessories and fixtures
+- **[Shroud Case Study](/post/shroud_case_study/)** — Precision machining for competitive gaming hardware
 
 ---
 

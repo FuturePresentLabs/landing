@@ -4,7 +4,7 @@ date: 2025-08-12
 description: "GSG Manufacturing is teaming up with Future Present Labs to produce short-run firearm accessories, fixtures, and test hardware with tighter feedback loops."
 keywords: ["GSG Manufacturing", "firearm accessories", "precision machining", "Future Present Labs", "short-run production", "Seattle manufacturing"]
 categories: ["Partnerships", "Defense"]
-draft: true
+draft: false
 ---
 
 *Future Present Labs is now supporting GSG Manufacturing with rapid machining, fixture design, and engineering support for their expanding line of firearm accessories.*

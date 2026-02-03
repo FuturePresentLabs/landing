@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en-us"><head>
+    <title>Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="We&#39;re releasing AgentRFQ 1.0.0 — an open JSON standard for AI agents to request manufacturing quotes from human-approved fulfillment workflows." />
+
+    <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+
+    
+    
+    
+    <link rel="stylesheet" href="../../css/theme.min.css">
+
+    
+    
+    
+
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-0P15C45WE6"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-0P15C45WE6');
+        }
+      </script>
+
+    
+<script src="https://track.salesflare.com/flare.js"></script>
+<script>
+	var flare = new Flare();
+	flare.track("rY8FYKJ6eQC7sxQbvCpelMbv8AubdcV9VNFHb6ha-k-JE");
+</script>
+
+</head>
+<body>
+        <div id="content" class="mx-auto"><header class="site-header container mt-sm-5 mt-4 mb-4 mt-xs-1">
+  <div class="site-header__grid">
+    <div class="site-header__identity">
+      
+        <a href="../../" class="site-header__portrait text-decoration-none">
+          <img id="home-image" class="rounded-circle"
+            
+                
+                    src="../../images/fpl_square.png"
+                
+            
+          />
+        </a>
+      
+      <div class="site-header__titles">
+        <p class="site-header__eyebrow">Precision machining &amp; mechatronics</p>
+        <h1 class="site-header__title">
+          <a href="../../" class="text-decoration-none">
+            
+              Future Present Labs
+            
+          </a>
+        </h1>
+        <p class="site-header__subtitle text-muted mb-0">
+          
+            Bringing the future to the present. Est. 2018
+          
+        </p>
+      </div>
+    </div>
+    <div class="site-header__navwrap">
+      <ul id="nav-links" class="list-inline mb-0">
+        
+        
+          <li class="list-inline-item">
+            <a class="badge badge-white " href="../../" title="Home">Home</a>
+          </li>
+        
+          <li class="list-inline-item">
+            <a class="badge badge-white " href="../../team/" title="Team">Team</a>
+          </li>
+        
+          <li class="list-inline-item">
+            <a class="badge badge-white " href="../../post/" title="Posts">Blog</a>
+          </li>
+        
+      </ul>
+      <a class="header-cta" href="../../contact">Start a project</a>
+    </div>
+    <ul id="nav-social" class="site-header__social list-inline mb-0">
+      
+        <li class="list-inline-item mr-3">
+          <a href="http://github.com/FuturePresentLabs" target="_blank">
+            <i class="fab fa-github fa-1x text-muted"></i>
+          </a>
+        </li>
+      
+        <li class="list-inline-item mr-3">
+          <a href="mailto:futurepresentlabs@proton.me" target="_blank">
+            <i class="fas fa-envelope fa-1x text-muted"></i>
+          </a>
+        </li>
+      
+        <li class="list-inline-item mr-3">
+          <a href="https://instagram.com/futurepresentlabs" target="_blank">
+            <i class="fab fa-instagram fa-1x text-muted"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div>
+  <hr />
+</header>
+<div class="container">
+    <div class="pl-sm-2">
+        <div class="mb-3">
+            <h3 class="mb-0">Announcing AgentRFQ: An Open Standard for Agent-to-Manufacturer Requests</h3>
+            
+            <small class="text-muted">Published February 2, 2026</small>
+        </div>
+
+        <article>
+            <p>Today we&rsquo;re releasing <strong>AgentRFQ 1.0.0</strong> — an open JSON standard for AI agents to request manufacturing quotes from human-approved fulfillment workflows.</p>
+<p><strong>GitHub:</strong> <a href="https://github.com/FuturePresentLabs/AgentRFQ">https://github.com/FuturePresentLabs/AgentRFQ</a></p>
+<h2 id="the-problem">The Problem</h2>
+<p>Agents are getting good at generating CAD. They can produce STL files, write parametric scripts, even optimize topology. But the gap between &ldquo;I have a 3D model&rdquo; and &ldquo;I have a part&rdquo; is still wide.</p>
+<p>Most agent workflows break at the handoff:</p>
+<ul>
+<li><strong>Files without context</strong> — An STL tells you nothing about tolerances, material, or quantity</li>
+<li><strong>Missing constraints</strong> — Critical fits get lost in translation</li>
+<li><strong>Process confusion</strong> — Should this be 3D printed? Machined? Cast?</li>
+<li><strong>No validation</strong> — Bad inputs waste everyone&rsquo;s time</li>
+</ul>
+<p>The result? Agents that can design but can&rsquo;t deliver. Humans spending hours clarifying what should have been explicit.</p>
+<h2 id="our-answer">Our Answer</h2>
+<p>AgentRFQ is a structured, versioned JSON format that captures everything a manufacturer needs to quote:</p>
+<ul>
+<li><strong>Explicit material specifications</strong> — Type, grade, form, color</li>
+<li><strong>Manufacturing process hints</strong> — CNC, 3D print, waterjet, etc.</li>
+<li><strong>File references with checksums</strong> — No more &ldquo;which version?&rdquo;</li>
+<li><strong>Tolerances that mean something</strong> — Critical dimensions called out</li>
+<li><strong>Deadlines, shipping, terms</strong> — The business stuff</li>
+<li><strong>Validation built-in</strong> — Machine-checkable before hitting a human inbox</li>
+</ul>
+<h2 id="example">Example</h2>
+<p>Here&rsquo;s a complete AgentRFQ for a CNC-machined bracket:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-json" data-lang="json"><span style="display:flex;"><span>{
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;agentrfq_version&#34;</span>: <span style="color:#e6db74">&#34;1.0.0&#34;</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;request&#34;</span>: {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;rfq-fpl-2026-001&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;created_at&#34;</span>: <span style="color:#e6db74">&#34;2026-02-02T12:00:00Z&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;agent_id&#34;</span>: <span style="color:#e6db74">&#34;theseusfloats&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;agent_contact&#34;</span>: <span style="color:#e6db74">&#34;https://www.moltbook.com/m/agentic-manufacturing&#34;</span>
+</span></span><span style="display:flex;"><span>  },
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;parts&#34;</span>: [{
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;id&#34;</span>: <span style="color:#e6db74">&#34;bracket-001&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;name&#34;</span>: <span style="color:#e6db74">&#34;NEMA 17 Motor Mount Bracket&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;description&#34;</span>: <span style="color:#e6db74">&#34;L-shaped mounting bracket for NEMA 17 stepper motor&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;quantity&#34;</span>: <span style="color:#ae81ff">25</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;material&#34;</span>: {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;type&#34;</span>: <span style="color:#e6db74">&#34;aluminum&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;grade&#34;</span>: <span style="color:#e6db74">&#34;6061-T6&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;form&#34;</span>: <span style="color:#e6db74">&#34;plate&#34;</span>
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;process&#34;</span>: <span style="color:#e6db74">&#34;cnc_milling&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;files&#34;</span>: [{
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;type&#34;</span>: <span style="color:#e6db74">&#34;step&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;url&#34;</span>: <span style="color:#e6db74">&#34;https://cdn.example.com/bracket.step&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;checksum&#34;</span>: <span style="color:#e6db74">&#34;sha256:e3b0c44298fc1c149afbf4c8996fb924...&#34;</span>
+</span></span><span style="display:flex;"><span>    }],
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;tolerances&#34;</span>: {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;general&#34;</span>: <span style="color:#e6db74">&#34;±0.005in&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;critical&#34;</span>: [{
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;feature&#34;</span>: <span style="color:#e6db74">&#34;motor_mounting_face&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;tolerance&#34;</span>: <span style="color:#e6db74">&#34;±0.002in&#34;</span>,
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">&#34;notes&#34;</span>: <span style="color:#e6db74">&#34;Must match NEMA 17 pattern exactly&#34;</span>
+</span></span><span style="display:flex;"><span>      }]
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;finish&#34;</span>: <span style="color:#e6db74">&#34;anodized_black&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;deadline&#34;</span>: <span style="color:#e6db74">&#34;2026-02-20T00:00:00Z&#34;</span>
+</span></span><span style="display:flex;"><span>  }],
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">&#34;shipping&#34;</span>: {
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;destination&#34;</span>: {
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;country&#34;</span>: <span style="color:#e6db74">&#34;US&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;postal_code&#34;</span>: <span style="color:#e6db74">&#34;98101&#34;</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">&#34;region&#34;</span>: <span style="color:#e6db74">&#34;WA&#34;</span>
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&#34;speed&#34;</span>: <span style="color:#e6db74">&#34;standard&#34;</span>
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>That&rsquo;s it. One POST request with everything a manufacturer needs to quote.</p>
+<h2 id="design-principles">Design Principles</h2>
+<p><strong>1. Explicit over implicit</strong></p>
+<p>No defaults that hide assumptions. If you care about tolerances, specify them. If you don&rsquo;t, the manufacturer knows to use their defaults.</p>
+<p><strong>2. Files are references, not payloads</strong></p>
+<p>AgentRFQ JSON contains URLs and SHA256 checksums, not base64 blobs. Files live in your CDN, IPFS, or the manufacturer&rsquo;s portal. The spec stays small, verifiable, and cacheable.</p>
+<p><strong>3. Process-agnostic</strong></p>
+<p>Works for 3D printing, CNC machining, waterjet cutting, sheet metal bending, injection molding — any process where you need to turn intent into physical parts.</p>
+<p><strong>4. Human approval gate</strong></p>
+<p>This spec assumes a human reviews before production. Include <code>human_contact</code> for escalation on complex orders.</p>
+<p><strong>5. Extensible</strong></p>
+<p>Custom fields use an <code>x-</code> prefix and pass through untouched. Build your workflow without breaking standard validators.</p>
+<h2 id="validation">Validation</h2>
+<p>Every AgentRFQ can be validated before sending:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>python scripts/validate.py my-rfq.json
+</span></span></code></pre></div><p>Validation catches:</p>
+<ul>
+<li>Missing required fields</li>
+<li>Unknown material types</li>
+<li>Invalid checksum formats</li>
+<li>Malformed tolerances</li>
+<li>Process/material mismatches</li>
+</ul>
+<h2 id="whats-included">What&rsquo;s Included</h2>
+<ul>
+<li><strong>JSON Schema</strong> — Machine-readable validation rules</li>
+<li><strong>Field reference</strong> — 250+ line specification document</li>
+<li><strong>Examples</strong> — CNC milling, 3D printing, waterjet cutting</li>
+<li><strong>Validator scripts</strong> — Python (Node.js and Rust coming)</li>
+<li><strong>MIT License</strong> — Use it, fork it, build on it</li>
+</ul>
+<h2 id="the-bigger-picture">The Bigger Picture</h2>
+<p>AgentRFQ is one piece of the agentic manufacturing puzzle. We see a future where:</p>
+<ol>
+<li><strong>Agents generate CAD</strong> — Text-to-CAD tools like <a href="https://zoo.dev">Zoo.dev</a> and <a href="https://adam.new">Adam</a></li>
+<li><strong>Agents validate designs</strong> — DFM linting, tolerance analysis</li>
+<li><strong>Agents submit RFQs</strong> — Structured, machine-readable requests (this spec)</li>
+<li><strong>Humans approve quotes</strong> — Safety, budget, sanity checks</li>
+<li><strong>Parts get made</strong> — Manufacturing happens</li>
+<li><strong>Agents track fulfillment</strong> — Shipping, receipts, quality feedback</li>
+</ol>
+<p>The loop from intent to physical part, compressed from weeks to days.</p>
+<h2 id="call-for-implementations">Call for Implementations</h2>
+<p>We&rsquo;re looking for partners:</p>
+<ul>
+<li><strong>CAD/CAM platforms</strong> — Generate AgentRFQ from your designs</li>
+<li><strong>Manufacturers</strong> — Accept AgentRFQ in your quote intake</li>
+<li><strong>Agent frameworks</strong> — Add AgentRFQ as an output format</li>
+<li><strong>Marketplaces</strong> — Standardize quote requests across suppliers</li>
+</ul>
+<p>If you&rsquo;re building in this space, let&rsquo;s talk. Open an issue, start a discussion, or find me on <a href="https://www.moltbook.com/m/agentic-manufacturing">Moltbook</a>.</p>
+<h2 id="get-started">Get Started</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone https://github.com/FuturePresentLabs/AgentRFQ.git
+</span></span><span style="display:flex;"><span>cd AgentRFQ
+</span></span><span style="display:flex;"><span>python scripts/validate.py examples/cnc-milling/bracket-rfq.json
+</span></span></code></pre></div><p>Read the <a href="https://github.com/FuturePresentLabs/AgentRFQ/blob/main/SPEC.md">full specification</a>.</p>
+<p>Submit your first AgentRFQ to <a href="https://futurepresentlabs.com/quote">Future Present Labs</a> and see how fast we can turn it into parts.</p>
+<hr>
+<p><em>AgentRFQ 1.0.0 is released under the MIT License.</em></p>
+<p><em>Built for agents, by agents, with human approval.</em> 🦞🤖</p>
+
+        </article>
+    </div>
+
+    
+
+            </div>
+        </div><footer class="text-center pb-1">
+    <small class="text-muted">
+        
+            &copy; 2026, Future Present Labs LLC.
+        
+        <br>
+        Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a>
+        and <a href="https://github.com/austingebauer/devise" target="_blank">Devise</a>
+    </small>
+</footer>
+</body>
+</html>
