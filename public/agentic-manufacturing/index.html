@@ -117,7 +117,7 @@
 <div class="container">
     <div class="pl-sm-4 ml-sm-5">
         <h2 id="agentic-manufacturing-from-intent-to-physical-reality">Agentic Manufacturing: From Intent to Physical Reality</h2>
-<img src="../images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing Pipeline - From CAD to Physical Part" class="hero-image" style="width: 100%; max-width: 900px; margin: 2rem auto; display: block; border-radius: 8px;">
+<img src="../images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing Pipeline - From CAD to Physical Part" class="hero-image" style="width: 100%; max-width: min(900px, 95vw); height: auto; margin: 2rem auto; display: block; border-radius: 8px;">
 <p><strong>Agentic manufacturing</strong> is the emerging practice of AI agents designing, specifying, quoting, and producing physical parts with minimal human intervention. Instead of humans translating ideas into CAD, then CAD into RFQs, then RFQs into purchase orders — the agent handles the full pipeline.</p>
 <p>At <strong>Future Present Labs</strong>, we&rsquo;re building the infrastructure that makes this possible today.</p>
 <hr>
@@ -137,7 +137,7 @@ Instant quote → Agent approves → Production → Ship
 </ul>
 <hr>
 <h2 id="the-jarvis-moment">The JARVIS Moment</h2>
-<img src="../images/agentic-manufacturing/cad-to-part.png" alt="From CAD design to physical machined part" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="../images/agentic-manufacturing/cad-to-part.png" alt="From CAD design to physical machined part" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 <p>There&rsquo;s a scene in Iron Man where Tony Stark walks into his lab, says &ldquo;wake up,&rdquo; and the room comes alive — systems spin up, tools ready, production begins. That&rsquo;s the vision: an agent says &ldquo;make this,&rdquo; and it happens.</p>
 <p>We&rsquo;re not there yet. But we&rsquo;re getting closer.</p>
 <p>The critical gap has been the <strong>handoff</strong> — the moment when a digital design becomes a physical thing. That&rsquo;s where most agentic workflows break down. Files get lost in email. Quotes take days. Humans have to intervene at every step.</p>
@@ -154,7 +154,7 @@ Instant quote → Agent approves → Production → Ship
 </ul>
 <p>Get an instant, human-reviewed quote back.</p>
 <h3 id="2-api-ready-production">2. API-Ready Production</h3>
-<img src="../images/agentic-manufacturing/approval-payment.png" alt="Automated approval and payment workflow" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="../images/agentic-manufacturing/approval-payment.png" alt="Automated approval and payment workflow" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 <p>Our systems are built for automation:</p>
 <ul>
 <li><strong>Digital intake</strong>: Upload via API, form, or email</li>
@@ -164,7 +164,7 @@ Instant quote → Agent approves → Production → Ship
 <li><strong>Automated shipping</strong>: Integrated with major carriers</li>
 </ul>
 <h3 id="3-multi-process-capability">3. Multi-Process Capability</h3>
-<img src="../images/agentic-manufacturing/printer-fleet.png" alt="3D printer fleet for rapid prototyping" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="../images/agentic-manufacturing/printer-fleet.png" alt="3D printer fleet for rapid prototyping" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 <p>Whether your agent needs:</p>
 <ul>
 <li><strong>CNC milling</strong> (4-axis, aluminum, steel, plastics)</li>
@@ -184,7 +184,7 @@ Instant quote → Agent approves → Production → Ship
 <p>This hybrid approach lets agents move fast while ensuring quality.</p>
 <hr>
 <h2 id="real-world-applications">Real-World Applications</h2>
-<img src="../images/agentic-manufacturing/shipping-tracking.png" alt="Production tracking and shipping" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="../images/agentic-manufacturing/shipping-tracking.png" alt="Production tracking and shipping" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 <h3 id="rapid-prototyping-for-robotics-startups">Rapid Prototyping for Robotics Startups</h3>
 <p>Agents iterate faster than humans. A robotics startup might generate 50 bracket designs in a day. We can quote and produce the top candidates within 24 hours, letting the agent validate designs physically before committing to production tooling.</p>
 <h3 id="on-demand-spare-parts">On-Demand Spare Parts</h3>
@@ -288,6 +288,20 @@ article ul, article ol {
 
 article li {
   margin-bottom: 0.5rem;
+}
+
+/* Responsive images */
+.hero-image, .section-image {
+  max-width: 100% !important;
+  height: auto !important;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .hero-image, .section-image {
+    margin: 1rem auto !important;
+    border-radius: 6px;
+  }
 }
 </style>
 

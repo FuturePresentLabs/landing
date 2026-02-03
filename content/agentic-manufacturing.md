@@ -7,7 +7,7 @@ url: "/agentic-manufacturing/"
 
 ## Agentic Manufacturing: From Intent to Physical Reality
 
-<img src="/images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing Pipeline - From CAD to Physical Part" class="hero-image" style="width: 100%; max-width: 900px; margin: 2rem auto; display: block; border-radius: 8px;">
+<img src="/images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing Pipeline - From CAD to Physical Part" class="hero-image" style="width: 100%; max-width: min(900px, 95vw); height: auto; margin: 2rem auto; display: block; border-radius: 8px;">
 
 **Agentic manufacturing** is the emerging practice of AI agents designing, specifying, quoting, and producing physical parts with minimal human intervention. Instead of humans translating ideas into CAD, then CAD into RFQs, then RFQs into purchase orders — the agent handles the full pipeline.
 
@@ -41,7 +41,7 @@ The key enablers:
 
 ## The JARVIS Moment
 
-<img src="/images/agentic-manufacturing/cad-to-part.png" alt="From CAD design to physical machined part" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="/images/agentic-manufacturing/cad-to-part.png" alt="From CAD design to physical machined part" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 
 There's a scene in Iron Man where Tony Stark walks into his lab, says "wake up," and the room comes alive — systems spin up, tools ready, production begins. That's the vision: an agent says "make this," and it happens.
 
@@ -68,7 +68,7 @@ Get an instant, human-reviewed quote back.
 
 ### 2. API-Ready Production
 
-<img src="/images/agentic-manufacturing/approval-payment.png" alt="Automated approval and payment workflow" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="/images/agentic-manufacturing/approval-payment.png" alt="Automated approval and payment workflow" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 
 Our systems are built for automation:
 - **Digital intake**: Upload via API, form, or email
@@ -79,7 +79,7 @@ Our systems are built for automation:
 
 ### 3. Multi-Process Capability
 
-<img src="/images/agentic-manufacturing/printer-fleet.png" alt="3D printer fleet for rapid prototyping" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="/images/agentic-manufacturing/printer-fleet.png" alt="3D printer fleet for rapid prototyping" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 
 Whether your agent needs:
 - **CNC milling** (4-axis, aluminum, steel, plastics)
@@ -103,7 +103,7 @@ This hybrid approach lets agents move fast while ensuring quality.
 
 ## Real-World Applications
 
-<img src="/images/agentic-manufacturing/shipping-tracking.png" alt="Production tracking and shipping" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+<img src="/images/agentic-manufacturing/shipping-tracking.png" alt="Production tracking and shipping" class="section-image" style="width: 100%; max-width: min(700px, 95vw); height: auto; margin: 1.5rem auto; display: block; border-radius: 8px;">
 
 ### Rapid Prototyping for Robotics Startups
 
@@ -232,5 +232,19 @@ article ul, article ol {
 
 article li {
   margin-bottom: 0.5rem;
+}
+
+/* Responsive images */
+.hero-image, .section-image {
+  max-width: 100% !important;
+  height: auto !important;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .hero-image, .section-image {
+    margin: 1rem auto !important;
+    border-radius: 6px;
+  }
 }
 </style>
