@@ -38,7 +38,7 @@ We've streamlined our manufacturing services to get you pricing fast—so you ca
 
 ### 1. Upload Your Files
 
-Send us your CAD files via our [contact form](/contact/), email, or direct file transfer. We accept:
+Send us your CAD files via our [instant quote form](https://quote.fpl.dev), email, or direct file transfer. We accept:
 
 - **STEP** (.step, .stp) — Preferred for CNC machining
 - **STL** (.stl) — For 3D printing
@@ -183,20 +183,6 @@ Our instant pricing is matched by fast production—so you can order and receive
 
 ---
 
-## What Our Customers Say
-
-> "We went from CAD to physical parts in 72 hours. The quote was transparent, the communication was clear, and the parts were exactly what we needed."
-> — **Engineering Lead, Robotics Startup**
-
-> "Finally, a machine shop that understands speed matters. Their instant quoting let us keep our project on track."
-> — **Product Manager, Consumer Electronics**
-
-> "The DFM feedback in their quotes saved us from a costly design mistake. Worth every penny."
-> — **Mechanical Engineer, Aerospace**
-
----
-
-## Manufacturing Services We Offer Near Seattle
 
 When you hire Future Present Labs to buy custom parts, you get full-service manufacturing capabilities:
 
@@ -231,7 +217,7 @@ Ready to hire a CNC machine shop near Seattle? Here's how to order:
 
 ### Option 1: Upload Files Online for Instant Pricing
 
-Use our [contact form](/contact/) to upload your files and get pricing to buy custom parts. Include:
+Use our [instant quote form](https://quote.fpl.dev) to upload your files and get pricing to buy custom parts. Include:
 
 - CAD files or technical drawings
 - Material preferences (or ask for our suggestions)
@@ -241,11 +227,11 @@ Use our [contact form](/contact/) to upload your files and get pricing to buy cu
 
 ### Option 2: Email Directly to Hire Us
 
-Send files to [hello@fpl.dev](mailto:hello@fpl.dev) with your project details and we'll reply with pricing within hours.
+Send files to [info@fpl.dev](mailto:info@fpl.dev) with your project details and we'll reply with pricing within hours.
 
 ### Option 3: Schedule a Consultation Call
 
-For complex manufacturing services, [schedule a consultation](/contact/) to discuss your needs with our engineers before you buy.
+For complex manufacturing services, [schedule a consultation](mailto:info@fpl.dev) to discuss your needs with our engineers before you buy.
 
 ---
 
@@ -277,9 +263,9 @@ A: We'll work with you to identify cost-reduction opportunities—simplifying ge
 
 Stop waiting days for manufacturing quotes. Get instant pricing from a Seattle CNC machine shop near you and order your custom parts fast.
 
-**[Get Your Instant Pricing →](/contact/)**
+**[Get Your Instant Pricing →](https://quote.fpl.dev)**
 
-Or [email us directly](mailto:hello@fpl.dev) to hire our manufacturing services and buy your custom parts.
+Or [email us directly](mailto:info@fpl.dev) to discuss your custom parts.
 
 ---
 
