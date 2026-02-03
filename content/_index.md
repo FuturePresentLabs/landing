@@ -41,6 +41,31 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
 
 ---
 
+### Building the Future of Agentic Manufacturing
+
+<div class="agentic-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: white; padding: 2.5rem; border-radius: 12px; margin: 2rem 0;">
+  <div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 280px;">
+      <h3 style="color: #64b5f6; margin-top: 0; font-size: 1.5rem;">🤖 For AI Agents That Make Things</h3>
+      <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">
+        Future Present Labs is building the physical infrastructure for agentic manufacturing.
+        From CAD generation to parts on your doorstep — we close the loop between digital intent and physical reality.
+      </p>
+      <ul style="margin-bottom: 1.5rem; padding-left: 1.5rem;">
+        <li style="margin-bottom: 0.5rem;">Structured RFQs via open AgentRFQ spec</li>
+        <li style="margin-bottom: 0.5rem;">API-ready CNC machining & 3D printing</li>
+        <li style="margin-bottom: 0.5rem;">Instant quotes, human-in-the-loop when needed</li>
+      </ul>
+      <a href="/agentic-manufacturing/" style="display: inline-block; background: #64b5f6; color: #1a1a2e; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; font-weight: 600;">Explore Agentic Manufacturing →</a>
+    </div>
+    <div style="flex: 0 0 300px; text-align: center;">
+      <img src="/images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    </div>
+  </div>
+</div>
+
+---
+
 ### Instant quoting built for prototypes
 <div class="quote-panel">
   <p>Upload CAD, prints, or even a napkin sketch. Our quoting flow calls out risks, suggests materials, and books the next open slot on the mill or lathe.</p>

@@ -16,12 +16,12 @@ copyright = "&copy; 2026, Future Present Labs LLC."
     title = "Home"
     url = "/"
     weight = -120
-  [[menu.main]]
-    identifier = "agentic-manufacturing"
-    name = "Agentic Manufacturing"
-    title = "Agentic Manufacturing"
-    url = "/agentic-manufacturing/"
-    weight = -118
+  # [[menu.main]]
+  #   identifier = "agentic-manufacturing"
+  #   name = "Agentic Manufacturing"
+  #   title = "Agentic Manufacturing"
+  #   url = "/agentic-manufacturing/"
+  #   weight = -118
   [[menu.main]]
     identifier = "team"
     name = "Team"

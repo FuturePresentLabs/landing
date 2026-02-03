@@ -7,6 +7,8 @@ url: "/agentic-manufacturing/"
 
 ## Agentic Manufacturing: From Intent to Physical Reality
 
+<img src="/images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing Pipeline - From CAD to Physical Part" class="hero-image" style="width: 100%; max-width: 900px; margin: 2rem auto; display: block; border-radius: 8px;">
+
 **Agentic manufacturing** is the emerging practice of AI agents designing, specifying, quoting, and producing physical parts with minimal human intervention. Instead of humans translating ideas into CAD, then CAD into RFQs, then RFQs into purchase orders — the agent handles the full pipeline.
 
 At **Future Present Labs**, we're building the infrastructure that makes this possible today.
@@ -39,6 +41,8 @@ The key enablers:
 
 ## The JARVIS Moment
 
+<img src="/images/agentic-manufacturing/cad-to-part.png" alt="From CAD design to physical machined part" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+
 There's a scene in Iron Man where Tony Stark walks into his lab, says "wake up," and the room comes alive — systems spin up, tools ready, production begins. That's the vision: an agent says "make this," and it happens.
 
 We're not there yet. But we're getting closer.
@@ -64,6 +68,8 @@ Get an instant, human-reviewed quote back.
 
 ### 2. API-Ready Production
 
+<img src="/images/agentic-manufacturing/approval-payment.png" alt="Automated approval and payment workflow" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
+
 Our systems are built for automation:
 - **Digital intake**: Upload via API, form, or email
 - **Instant DFM feedback**: Automated design-for-manufacturing checks
@@ -72,6 +78,8 @@ Our systems are built for automation:
 - **Automated shipping**: Integrated with major carriers
 
 ### 3. Multi-Process Capability
+
+<img src="/images/agentic-manufacturing/printer-fleet.png" alt="3D printer fleet for rapid prototyping" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
 
 Whether your agent needs:
 - **CNC milling** (4-axis, aluminum, steel, plastics)
@@ -94,6 +102,8 @@ This hybrid approach lets agents move fast while ensuring quality.
 ---
 
 ## Real-World Applications
+
+<img src="/images/agentic-manufacturing/shipping-tracking.png" alt="Production tracking and shipping" class="section-image" style="width: 100%; max-width: 700px; margin: 1.5rem auto; display: block; border-radius: 8px;">
 
 ### Rapid Prototyping for Robotics Startups
 
