@@ -11,7 +11,7 @@ description: "Meet the team behind Future Present Labs"
 <img src="/images/team/avery.jpg" alt="Avery Wagar" class="team-photo">
 <h3>Avery Wagar</h3>
 <p class="team-role">Founder & CEO</p>
-<p>Avery founded Future Present Labs with a vision to bridge the gap between software and physical manufacturing. With a background in systems engineering and a passion for building, he leads the company's strategic direction and technical vision. Avery is obsessed with making American manufacturing competitive again through automation, AI, and modern tooling.</p>
+<p>Avery founded Future Present Labs with a vision to bridge the gap between software and physical manufacturing. With a background in systems engineering and a passion for building, he leads the company's strategic direction and technical vision. Avery is focused on making American manufacturing competitive through automation, AI, and modern tooling.</p>
 </div>
 
 <div class="team-member">

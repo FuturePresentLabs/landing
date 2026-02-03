@@ -178,7 +178,7 @@ Integrating manufacturing into your agent workflow? Let's talk.
 - We can build custom webhooks for your agent's notification system
 - We're actively developing real-time production status APIs
 
-Contact us at [hello@fpl.dev](mailto:hello@fpl.dev) to discuss integration.
+Contact us at [info@fpl.dev](mailto:info@fpl.dev) to discuss integration.
 
 ---
 
