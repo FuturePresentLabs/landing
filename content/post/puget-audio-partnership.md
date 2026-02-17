@@ -8,9 +8,9 @@ author: "Future Present Labs"
 description: "Future Present Labs partners with Puget Audio to manufacture precision-machined aluminum enclosures and electronic assemblies for professional audio equipment."
 ---
 
-**SEATTLE, WA — February 16, 2026** — Future Present Labs (FPL), a Seattle-based precision CNC machining and mechatronics consulting firm, today announced a strategic manufacturing partnership with Puget Audio, a boutique manufacturer of professional audio equipment.
+**SEATTLE, WA — February 16, 2026** — Puget Audio has tapped Future Present Labs (FPL) to manufacture precision-machined aluminum enclosures, electronic assemblies, and custom hardware for their upcoming line of professional audio equipment.
 
-Under the agreement, FPL will serve as the primary manufacturing partner for Puget Audio's upcoming product line, producing precision-machined aluminum enclosures, electronic assemblies, and custom hardware. The partnership represents FPL's continued expansion into premium electromechanical manufacturing.
+The partnership brings together Puget Audio's design expertise with FPL's precision CNC machining and electromechanical assembly capabilities. FPL will serve as the primary manufacturing partner, handling everything from prototype iterations through production runs at their Seattle facility.
 
 ## Manufacturing Partnership Highlights
 
