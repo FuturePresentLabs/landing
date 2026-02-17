@@ -164,6 +164,9 @@ copyright = "&copy; 2026, Future Present Labs LLC."
   [[params.trusted_by.logos]]
     image = "/images/c7.jpg"
     alt = "C7"
+  [[params.trusted_by.logos]]
+    image = "/images/puget-logo.svg"
+    alt = "Puget Audio"
 
 [markup.goldmark.renderer]
 unsafe = true

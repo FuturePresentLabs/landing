@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 04:30:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 12:00:00 -0800</lastBuildDate>
     <atom:link href="https://fpl.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio</title>
+      <link>https://fpl.dev/categories/audio/</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
+      <guid>https://fpl.dev/categories/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manufacturing</title>
+      <link>https://fpl.dev/categories/manufacturing/</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
+      <guid>https://fpl.dev/categories/manufacturing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partnerships</title>
+      <link>https://fpl.dev/categories/partnerships/</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
+      <guid>https://fpl.dev/categories/partnerships/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agentic Manufacturing</title>
       <link>https://fpl.dev/categories/agentic-manufacturing/</link>
@@ -31,24 +52,10 @@
       <description></description>
     </item>
     <item>
-      <title>Manufacturing</title>
-      <link>https://fpl.dev/categories/manufacturing/</link>
-      <pubDate>Sun, 01 Feb 2026 03:20:00 -0800</pubDate>
-      <guid>https://fpl.dev/categories/manufacturing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Experiential</title>
       <link>https://fpl.dev/categories/experiential/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://fpl.dev/categories/experiential/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Partnerships</title>
-      <link>https://fpl.dev/categories/partnerships/</link>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://fpl.dev/categories/partnerships/</guid>
       <description></description>
     </item>
     <item>

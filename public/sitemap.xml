@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fpl.dev/categories/audio/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/categories/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/cnc-machining/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/electronics/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/puget-audio-partnership/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/fx-pedals/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/categories/manufacturing/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/categories/partnerships/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/partnerships/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/post/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
     <loc>https://fpl.dev/categories/agentic-manufacturing/</loc>
     <lastmod>2026-02-02T04:30:00-08:00</lastmod>
   </url><url>
@@ -14,25 +50,13 @@
     <loc>https://fpl.dev/post/announcing-agentrfq/</loc>
     <lastmod>2026-02-02T04:30:00-08:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/categories/</loc>
-    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
-  </url><url>
-    <loc>https://fpl.dev/</loc>
-    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/tags/manufacturing/</loc>
     <lastmod>2026-02-02T04:30:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/tags/open-source/</loc>
     <lastmod>2026-02-02T04:30:00-08:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/post/</loc>
-    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/categories/standards/</loc>
-    <lastmod>2026-02-02T04:30:00-08:00</lastmod>
-  </url><url>
-    <loc>https://fpl.dev/tags/</loc>
     <lastmod>2026-02-02T04:30:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/post/agentic-manufacturing-jarvis-moment/</loc>
@@ -44,9 +68,6 @@
     <loc>https://fpl.dev/tags/fpl/</loc>
     <lastmod>2026-02-01T03:20:00-08:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/categories/manufacturing/</loc>
-    <lastmod>2026-02-01T03:20:00-08:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/tags/prototyping/</loc>
     <lastmod>2026-02-01T03:20:00-08:00</lastmod>
   </url><url>
@@ -54,9 +75,6 @@
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/experiential/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fpl.dev/categories/partnerships/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/defense/</loc>
