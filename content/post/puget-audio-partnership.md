@@ -1,66 +1,66 @@
 ---
-title: "Future Present Labs Expands Manufacturing Capabilities into Premium Audio Equipment"
+title: "Future Present Labs Announces Strategic Manufacturing Partnership with Puget Audio"
 date: 2026-02-16T12:00:00-08:00
 draft: false
-categories: ["partnerships", "manufacturing", "capabilities"]
+categories: ["partnerships", "manufacturing"]
 tags: ["cnc-machining", "electronics-assembly", "enclosures", "electromechanical"]
 author: "Future Present Labs"
-description: "Future Present Labs announces new manufacturing capabilities for precision audio equipment, including CNC-machined aluminum enclosures and electronic assembly."
+description: "Future Present Labs partners with Puget Audio to manufacture precision-machined aluminum enclosures and electronic assemblies for professional audio equipment."
 ---
 
-**SEATTLE, WA — February 16, 2026** — Future Present Labs (FPL), a Seattle-based precision CNC machining and mechatronics consulting firm, today announced the expansion of its manufacturing capabilities to include premium audio equipment production. The company has begun producing precision-machined aluminum enclosures and electronic assemblies for boutique audio manufacturers.
+**SEATTLE, WA — February 16, 2026** — Future Present Labs (FPL), a Seattle-based precision CNC machining and mechatronics consulting firm, today announced a strategic manufacturing partnership with Puget Audio, a boutique manufacturer of professional audio equipment.
 
-## Precision Manufacturing for Demanding Applications
+Under the agreement, FPL will serve as the primary manufacturing partner for Puget Audio's upcoming product line, producing precision-machined aluminum enclosures, electronic assemblies, and custom hardware. The partnership represents FPL's continued expansion into premium electromechanical manufacturing.
 
-The expansion into audio equipment manufacturing represents a natural evolution for FPL, leveraging the company's existing expertise in precision machining and electromechanical assembly. Audio equipment presents unique manufacturing challenges that align with FPL's core capabilities:
+## Manufacturing Partnership Highlights
 
-- **Tight Tolerances**: Potentiometers, switches, and connectors require precise hole patterns and mounting features for reliable operation
-- **Enclosure Integrity**: Aluminum enclosures must provide electromagnetic shielding while maintaining structural rigidity for touring durability
-- **Surface Quality**: Professional audio products demand flawless surface finishes suitable for anodizing, powder coating, or Cerakote
-- **Electronic Integration**: PCB mounting, wiring harnesses, and component installation require clean assembly practices
+The collaboration leverages FPL's comprehensive manufacturing capabilities to bring Puget Audio's designs to market:
 
-"Audio equipment manufacturing is an excellent fit for our capabilities," said Avery Wagar, CEO of Future Present Labs. "The combination of precision-machined enclosures with electronic assembly plays to our strengths as a shop that handles both mechanical and electromechanical work."
+### Precision Enclosure Manufacturing
 
-## Manufacturing Capabilities
+- **4-Axis CNC Milling**: Complex aluminum enclosure geometries with integrated mounting features, recessed panels, and precision-machined apertures for controls and connectors
+- **Tight Tolerances**: ±0.001" precision on critical mounting features to ensure reliable potentiometer, switch, and jack fitment
+- **Material Optimization**: 6061-T6 aluminum selection for optimal strength-to-weight ratio and electromagnetic shielding properties
+- **Design for Manufacturing**: Collaborative engineering review to optimize enclosure designs for machinability and assembly
 
-Future Present Labs brings the following capabilities to audio equipment manufacturing:
+### Electronic Assembly Integration
 
-### CNC Machining
-- **4-Axis Milling**: Complex enclosure geometries, recessed panels, and integrated features
-- **Tight Tolerances**: ±0.001" precision on critical mounting features and hole patterns  
-- **Material Selection**: Aluminum 6061-T6 for lightweight enclosures, brass for knobs and hardware
-- **Prototyping to Production**: Quick-turn prototypes for design validation, then seamless scaling
+- **PCB Mounting Systems**: Precision-machined standoffs and mounting features for secure circuit board installation
+- **Component Integration**: Professional installation of potentiometers, switches, jacks, and indicator LEDs with proper strain relief and cable management
+- **Wiring Harnesses**: Custom cable assemblies with professional soldering, termination, and routing
+- **Testing Protocols**: Comprehensive continuity testing, functional verification, and quality assurance procedures
 
-### Electronics Assembly
-- **PCB Integration**: Mounting and interconnecting circuit boards within machined enclosures
-- **Component Installation**: Potentiometers, switches, jacks, and LEDs with proper strain relief
-- **Wiring Harnesses**: Custom cable assemblies with professional soldering and termination
-- **Testing Protocols**: Continuity testing, functional verification, and burn-in procedures
+### Surface Finishing & Branding
 
-### Surface Finishing
-- **Coordination with Partners**: Anodizing, powder coating, and Cerakote through established local vendors
-- **Silkscreen & Laser Marking**: Control labeling, branding, and regulatory markings
-- **Quality Inspection**: Surface finish verification before secondary operations
+- **Finish Coordination**: Management of anodizing, powder coating, and Cerakote applications through established local partners
+- **Precision Marking**: Laser engraving and silkscreen applications for control labeling and brand identification
+- **Quality Inspection**: Surface finish verification and dimensional validation before secondary operations
 
-### Rapid Prototyping
-- **3D Printing**: FDM and resin printing for fit-check prototypes and design validation
-- **Quick-Turn Machining**: First article enclosures in days, not weeks
-- **Iterative Development**: Same-day feedback and design modifications
+## The Strategic Fit
 
-## Pacific Northwest Manufacturing Advantage
+Puget Audio selected Future Present Labs based on the unique combination of precision machining expertise and electromechanical assembly capabilities required for professional audio equipment manufacturing.
 
-Keeping production local provides significant advantages for audio equipment manufacturers:
+"Professional audio equipment demands both precision-machined enclosures and clean electronic assembly," said Avery Wagar, CEO of Future Present Labs. "Our ability to handle both the mechanical and electromechanical aspects of production makes us an ideal manufacturing partner for companies like Puget Audio."
 
-- **Rapid Iteration**: Design changes can be implemented and tested within days
-- **Quality Control**: First article inspection and in-process checks happen in real-time
-- **Supply Chain Resilience**: No overseas shipping delays or tariff uncertainties
-- **Collaborative Development**: Engineers can visit the shop, inspect parts, and refine designs on-site
+## Local Manufacturing Advantages
 
-"For boutique manufacturers, the ability to walk into the shop and inspect first articles same-day is invaluable," noted Wagar. "That level of collaboration simply isn't possible with overseas manufacturing."
+The Pacific Northwest-based partnership provides significant advantages over traditional offshore manufacturing:
+
+- **Rapid Prototyping**: Design iterations can be implemented and validated within days rather than weeks
+- **Real-Time Quality Control**: First article inspection and in-process verification happen on-site with immediate feedback
+- **Engineering Collaboration**: Design teams can visit the facility, inspect parts, and refine designs in real-time
+- **Supply Chain Resilience**: Elimination of overseas shipping delays and tariff uncertainties
+- **IP Protection**: Sensitive designs and proprietary technology remain within U.S. jurisdiction
 
 ## About Future Present Labs
 
-Future Present Labs is a Seattle-based CNC machining and mechatronics consulting firm founded in 2018. The company operates a 4-axis CNC mill, CNC lathe, and multiple 3D printers from its Ballard shop, serving clients in aerospace, defense, consumer electronics, and now professional audio. FPL specializes in rapid prototyping, precision machining, and integrated hardware/software solutions.
+Future Present Labs is a Seattle-based CNC machining and mechatronics consulting firm founded in 2018. Operating from its Ballard facility, FPL maintains 4-axis CNC milling capabilities, CNC turning, 3D printing, and electronics assembly operations. The company serves clients across aerospace, defense, consumer electronics, and professional audio industries, specializing in rapid prototyping, precision manufacturing, and integrated electromechanical solutions.
+
+## About the Partnership
+
+The manufacturing partnership represents a strategic alignment between two Pacific Northwest-based companies committed to local production and precision manufacturing. FPL's capabilities enable Puget Audio to maintain design flexibility, rapid iteration cycles, and quality control throughout the product development process.
+
+Production is scheduled to commence in Q2 2026, with initial product availability expected shortly thereafter.
 
 ---
 
