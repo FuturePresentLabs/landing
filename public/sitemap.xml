@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fpl.dev/categories/audio/</loc>
+    <loc>https://fpl.dev/categories/capabilities/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/</loc>
@@ -11,7 +11,13 @@
     <loc>https://fpl.dev/tags/cnc-machining/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/tags/electronics/</loc>
+    <loc>https://fpl.dev/tags/electromechanical/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/electronics-assembly/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/enclosures/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/</loc>
@@ -20,16 +26,10 @@
     <loc>https://fpl.dev/post/puget-audio-partnership/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/tags/fx-pedals/</loc>
-    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/categories/manufacturing/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/partnerships/</loc>
-    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://fpl.dev/tags/partnerships/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/post/</loc>
