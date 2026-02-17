@@ -10,11 +10,11 @@
     <lastBuildDate>Mon, 16 Feb 2026 12:00:00 -0800</lastBuildDate>
     <atom:link href="https://fpl.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Future Present Labs Announces Strategic Manufacturing Partnership with Puget Audio</title>
+      <title>Puget Audio Taps Future Present Labs for Manufacturing Partnership</title>
       <link>https://fpl.dev/post/puget-audio-partnership/</link>
       <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
       <guid>https://fpl.dev/post/puget-audio-partnership/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;SEATTLE, WA — February 16, 2026&lt;/strong&gt; — Puget Audio has tapped Future Present Labs (FPL) to manufacture precision-machined aluminum enclosures, electronic assemblies, and custom hardware for their upcoming line of professional audio equipment.&lt;/p&gt;&#xA;&lt;p&gt;The partnership brings together Puget Audio&amp;rsquo;s design expertise with FPL&amp;rsquo;s precision CNC machining and electromechanical assembly capabilities. FPL will serve as the primary manufacturing partner, handling everything from prototype iterations through production runs at their Seattle facility.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;SEATTLE, WA — February 16, 2026&lt;/strong&gt; — Puget Audio has tapped Future Present Labs (FPL) to manufacture their upcoming line of analog FX pedals. FPL will handle DFM feedback, CNC-machined enclosures, PCB sourcing and integration, final assembly, and finishing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-fpl-is-handling&#34;&gt;What FPL Is Handling&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Design for Manufacturing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Working from Puget Audio&amp;rsquo;s initial enclosure designs, FPL is providing DFM feedback to optimize for machining: wall thickness for tool access, internal corner radii, thread depth for potentiometer mounting, and datum selection for consistent setup across prototype and production runs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcing AgentRFQ: An Open Standard for Agent-to-Manufacturer Requests</title>

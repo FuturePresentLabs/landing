@@ -10,6 +10,13 @@
     <lastBuildDate>Mon, 16 Feb 2026 12:00:00 -0800</lastBuildDate>
     <atom:link href="https://fpl.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Assembly</title>
+      <link>https://fpl.dev/tags/assembly/</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
+      <guid>https://fpl.dev/tags/assembly/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cnc-Machining</title>
       <link>https://fpl.dev/tags/cnc-machining/</link>
       <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
@@ -17,24 +24,17 @@
       <description></description>
     </item>
     <item>
-      <title>Electromechanical</title>
-      <link>https://fpl.dev/tags/electromechanical/</link>
+      <title>Dfm</title>
+      <link>https://fpl.dev/tags/dfm/</link>
       <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
-      <guid>https://fpl.dev/tags/electromechanical/</guid>
+      <guid>https://fpl.dev/tags/dfm/</guid>
       <description></description>
     </item>
     <item>
-      <title>Electronics-Assembly</title>
-      <link>https://fpl.dev/tags/electronics-assembly/</link>
+      <title>Pcb</title>
+      <link>https://fpl.dev/tags/pcb/</link>
       <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
-      <guid>https://fpl.dev/tags/electronics-assembly/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Enclosures</title>
-      <link>https://fpl.dev/tags/enclosures/</link>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
-      <guid>https://fpl.dev/tags/enclosures/</guid>
+      <guid>https://fpl.dev/tags/pcb/</guid>
       <description></description>
     </item>
     <item>
