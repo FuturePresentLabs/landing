@@ -153,8 +153,7 @@ Future Present Labs is building step 3-6 today. We're the physical infrastructur
 ### Case Studies
 
 - **[Player Aerospace Partnership](/post/player_announce/)** — Propulsion components for aerospace
-- **[GSG Manufacturing Partnership](/post/gsg_mfg_partnership/)** — Firearm accessories and fixtures
-- **[Shroud Case Study](/post/shroud_case_study/)** — Precision machining for competitive gaming hardware
+- **[Shroud Case Study](/post/shroud_case_study/)** — MicroVM orchestration for regulated, self-hosted compute
 
 ---
 

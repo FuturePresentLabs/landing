@@ -1,0 +1,23 @@
+{{- $items := site.Params.testimonials -}}
+{{- if gt (len $items) 0 -}}
+<section class="testimonial-section" aria-label="Selected client work">
+  <div class="testimonial-section__header">
+    <p class="testimonial-eyebrow">Selected work</p>
+    <h3>Recent projects &amp; testimonials</h3>
+  </div>
+  <div class="testimonial-list">
+    {{- range $items -}}
+      <article class="testimonial-item">
+        <div class="testimonial-meta">
+          {{- with .source }}<strong>{{ . }}</strong>{{- end -}}
+          {{- with .context }}<span>{{ . }}</span>{{- end -}}
+        </div>
+        {{- with .quote }}<p>{{ . }}</p>{{- end -}}
+        {{- if and .url .link_label -}}
+          <a href="{{ .url }}">{{ .link_label }}</a>
+        {{- end -}}
+      </article>
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}

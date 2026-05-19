@@ -1,8 +1,10 @@
 <head>
-    <title>{{ .Site.Title }}</title>
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | Future Present Labs{{ end }}</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+    {{ with .Keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
 
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 
@@ -19,6 +21,8 @@
     {{ end }}
 
     {{ template "_internal/google_analytics.html" . }}
+
+    {{ partial "local-business-schema.html" . }}
 
     {{ partial  "tracking.html" . }}
 </head>

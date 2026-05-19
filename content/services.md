@@ -2,12 +2,18 @@
 title: "Integrated Services to Accelerate Your Innovation"
 print_description: "We offer a comprehensive suite of precision CNC machining and mechatronics consulting services, designed to work together to provide a seamless development experience from initial concept to final production."
 
-description: "Comprehensive CNC machining and mechatronics consulting services in Seattle. Rapid prototyping, small-batch production, and advanced engineering solutions."
-keywords: ["CNC machining", "multi-axis milling", "prototyping services", "mechatronics consulting", "automation engineering"]
+description: "CNC machining, WAZER waterjet cutting, MOPA fiber laser engraving, PCB design, rapid prototyping, and mechatronics support in Belltown, Seattle."
+keywords: ["CNC machining Seattle", "Belltown machine shop", "WAZER waterjet", "MOPA fiber laser", "laser engraving Seattle", "PCB design Seattle"]
 layout: services
 services:
   - title: CAD, CAM & CNC Services
     url: /services/#cnc
+  - title: Waterjet Cutting
+    url: /services/#waterjet
+  - title: Laser Engraving
+    url: /services/#engraving
+  - title: PCB Design
+    url: /services/#pcb
   - title: Mechatronics Consulting
     url: /services/#mecha
   - title: Shroud - Enterpise Workload Orchestration
@@ -20,7 +26,25 @@ services:
 
 ### CNC machining services {#cnc}
 
-We run one 4-axis mill and one CNC lathe focused on prototypes and short-run parts. Materials we regularly keep on hand include 6061, 7075, stainless, tool steel, Delrin, and other engineering plastics. Every job ships with simple measurement notes so you know what we checked.
+We run one 4-axis mill and one CNC lathe in Belltown, Seattle, focused on prototypes and short-run parts. Materials we regularly keep on hand include 6061, 7075, stainless, tool steel, Delrin, and other engineering plastics. Every job ships with simple measurement notes so you know what we checked.
+
+---
+
+### Waterjet cutting {#waterjet}
+
+We support WAZER abrasive waterjet cutting for metal, plastic, composite, rubber, gasket, and panel work. Send DXF, STEP, drawings, or sketches; we can help clean up geometry and identify which features should be machined after cutting.
+
+---
+
+### Laser engraving {#engraving}
+
+We use a MOPA fiber laser for part IDs, serial numbers, QR codes, control panels, nameplates, and short-run branded parts. Engraving can be bundled with CNC machining, waterjet cutting, and assembly so parts arrive marked and ready to use.
+
+---
+
+### PCB design {#pcb}
+
+We design and debug prototype circuit boards for embedded products, fixtures, sensors, controls, and test rigs. That includes schematic capture, PCB layout, bring-up, harness planning, and firmware or data logging support.
 
 ---
 

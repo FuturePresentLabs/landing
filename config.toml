@@ -55,7 +55,7 @@ copyright = "&copy; 2026, Future Present Labs LLC."
 
 # Configuration Features
 [params]
-  description = "Accelerate your innovation with Future Present Labs. Seattle's expert partner for high-precision CNC machining, rapid prototyping, and advanced mechatronics consulting. Get a quote today."      # Your meta description of the site
+  description = "Future Present Labs is a Belltown, Seattle machine shop for CNC machining, WAZER waterjet cutting, MOPA fiber laser engraving, rapid prototyping, and mechatronics support."      # Your meta description of the site
   header_title = "Future Present Labs"                 # Your header title
   header_subtitle = "Bringing the future to the present. Est. 2018" # Your header subtitle
   home_image = "/images/fpl_square.png"          # Path to header image starting from the static directory (optional)
@@ -64,7 +64,7 @@ copyright = "&copy; 2026, Future Present Labs LLC."
   [params.hero]
     eyebrow = "Integrated engineering + manufacturing"
     title = "From Complex Idea to Precision Part, Faster."
-    summary = "Future Present Labs is a small Seattle shop. Our capabilities include 4-axis CNC milling, CNC turning, 3D printing, silicon mold-making, cerakoting and laser engraving. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
+    summary = "Future Present Labs is a small Belltown, Seattle machine shop. Our capabilities include 4-axis CNC milling, CNC turning, WAZER abrasive waterjet cutting, MOPA fiber laser engraving, PCB design, 3D printing, silicon mold-making, and cerakoting. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor."
     panel_eyebrow = "By the numbers"
     panel_summary = "Most repeat work starts within a business day. Below are a few stats about what we're up to."
   [params.home_cta]
@@ -128,6 +128,18 @@ copyright = "&copy; 2026, Future Present Labs LLC."
     body = "Carbon-filled nylon and engineering-grade plastics for tooling, fixtures, and workholding."
     bullets = ["Printer-ready in hours for fixtures or quick parts", "Hybrid Carbon Nylon prints + machined plates for rigid tooling", "Bulk PA6-CF Parts"]
   [[params.capabilities]]
+    title = "Waterjet cutting"
+    body = "WAZER abrasive waterjet cutting for metals, plastics, composites, rubber, and gasket materials without heat-affected edges."
+    bullets = ["DXF, STEP, and sketch-to-cut support", "Great for brackets, panels, shims, and blanks", "Machined finishing available after cutting"]
+  [[params.capabilities]]
+    title = "Laser engraving"
+    body = "MOPA fiber laser engraving for permanent part IDs, serial numbers, branding, panels, and short-run product details."
+    bullets = ["Aluminum, stainless, plastics, coated parts, and wood", "Batch serialization and layout support", "Engraving paired with machining or assembly"]
+  [[params.capabilities]]
+    title = "PCB design"
+    body = "Circuit board design, bring-up, and test support for embedded products, fixtures, and hardware prototypes."
+    bullets = ["Schematic capture and board layout", "Prototype assembly and bench debugging", "Firmware and test integration"]
+  [[params.capabilities]]
     title = "Software Development"
     body = "Lightweight firmware, scripts, and automation to get business problems solved fast."
     bullets = ["Inventory management + e-commerce", "Data logging or control scripts for test rigs", "Apps to link tooling, machining, and reporting"]
@@ -140,6 +152,16 @@ copyright = "&copy; 2026, Future Present Labs LLC."
       title = "Future Present Labs"
       email = "info@fpl.dev"
       phone = "(206) 651-4573"
+
+  [params.business]
+    name = "Future Present Labs"
+    neighborhood = "Belltown"
+    city = "Seattle"
+    region = "WA"
+    country = "US"
+    url = "https://fpl.dev"
+    logo = "https://fpl.dev/images/fpl_square.png"
+    description = "Belltown, Seattle machine shop for CNC machining, WAZER waterjet cutting, MOPA fiber laser engraving, PCB design, 3D printing, rapid prototyping, and mechatronics support."
 
   [params.trusted_by]
     eyebrow = "Trusted by"
@@ -167,6 +189,28 @@ copyright = "&copy; 2026, Future Present Labs LLC."
   [[params.trusted_by.logos]]
     image = "/images/puget-logo.svg"
     alt = "Puget Audio"
+
+  [[params.testimonials]]
+    kind = "Customer quote"
+    quote = "FPL's technical expertise and agile manufacturing approach make them the ideal partner to help us scale. Their ability to deliver high-precision hardware and insightful engineering support right here in Seattle is a significant strategic advantage."
+    source = "Player Aerospace spokesperson"
+    context = "CNC machining and engineering support for rocket system production"
+    url = "/post/player_announce/"
+    link_label = "Read the partnership note"
+  [[params.testimonials]]
+    kind = "Case story"
+    quote = "Puget Audio wanted a partner who could manage the practical manufacturing stack: DFM feedback, CNC work on 125B pedal enclosures, WAZER waterjet-cut Eurorack panels, domestic PCB sourcing support, assembly, and final functional testing in Seattle."
+    source = "Puget Audio partnership"
+    context = "Analog pedal manufacturing and Eurorack module panel production"
+    url = "/post/puget-audio-partnership/"
+    link_label = "Read the Puget Audio note"
+  [[params.testimonials]]
+    kind = "Case study quote"
+    quote = "Shroud enabled us to take back control of our compute. The performance gains were immediate, but the real win was the simplicity and confidence it brought to managing our sensitive workloads on our own terms."
+    source = "IT Operations Lead, large enterprise client"
+    context = "Self-hosted microVM orchestration with 30% higher workload density"
+    url = "/post/shroud_case_study/"
+    link_label = "Read the case study"
 
 [markup.goldmark.renderer]
 unsafe = true

@@ -1,7 +1,7 @@
 ---
 title: "Future Present Labs"
-description: "Seattle-based CNC machining and mechatronics consulting. Fast turnarounds, precision parts, and integrated engineering solutions."
-keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", "mechatronics consulting", "aerospace machining"]
+description: "Belltown, Seattle machine shop for CNC machining, WAZER waterjet cutting, MOPA fiber laser engraving, rapid prototyping, PCB design, and mechatronics support."
+keywords: ["CNC machining Seattle", "Belltown machine shop", "waterjet cutting Seattle", "laser engraving Seattle", "rapid prototyping Seattle", "precision machining"]
 ---
 
 <div class="hero-grid">
@@ -11,8 +11,9 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
     <p>{{< hero-text key="summary" default="Future Present Labs is a small Seattle shop with a single 4-axis CNC mill, a CNC lathe, and a couple of 3D printers. We help nearby teams go from CAD to finished parts without waiting weeks for a big vendor." >}}</p>
     <ul class="hero-tags">
       <li>4-axis CNC milling</li>
-      <li>Lathe &amp; small assemblies</li>
-      <li>Embedded test + tooling</li>
+      <li>WAZER waterjet cutting</li>
+      <li>MOPA fiber laser engraving</li>
+      <li>Belltown, Seattle</li>
     </ul>
     <div class="cta-stack">
       {{< home-cta class="quote-button" >}}
@@ -41,22 +42,26 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
 
 ---
 
+{{< testimonials >}}
+
+---
+
 ### Building the Future of Agentic Manufacturing
 
 <div class="agentic-card" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: white; padding: 2.5rem; border-radius: 12px; margin: 2rem 0;">
   <div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 280px;">
-      <h3 style="color: #64b5f6; margin-top: 0; font-size: 1.5rem;">🤖 For AI Agents That Make Things</h3>
+      <h3 style="color: #64b5f6; margin-top: 0; font-size: 1.5rem;">For AI Agents That Make Things</h3>
       <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">
         Future Present Labs is building the physical infrastructure for agentic manufacturing.
-        From CAD generation to parts on your doorstep — we close the loop between digital intent and physical reality.
+        From CAD generation to parts on your doorstep, we close the loop between digital intent and physical reality.
       </p>
       <ul style="margin-bottom: 1.5rem; padding-left: 1.5rem;">
         <li style="margin-bottom: 0.5rem;">Structured RFQs via open AgentRFQ spec</li>
-        <li style="margin-bottom: 0.5rem;">API-ready CNC machining & 3D printing</li>
+        <li style="margin-bottom: 0.5rem;">API-ready CNC machining and 3D printing</li>
         <li style="margin-bottom: 0.5rem;">Instant quotes, human-in-the-loop when needed</li>
       </ul>
-      <a href="/agentic-manufacturing/" style="display: inline-block; background: #64b5f6; color: #1a1a2e; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; font-weight: 600;">Explore Agentic Manufacturing →</a>
+      <a href="/agentic-manufacturing/" style="display: inline-block; background: #64b5f6; color: #1a1a2e; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; font-weight: 600;">Explore Agentic Manufacturing</a>
     </div>
     <div style="flex: 0 0 300px; text-align: center;">
       <img src="/images/agentic-manufacturing/hero-agentic-manufacturing.png" alt="Agentic Manufacturing" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
@@ -74,18 +79,18 @@ keywords: ["CNC machining Seattle", "rapid prototyping", "precision machining", 
       <img src="/images/instant-quote/quote-process.png" alt="Instant Quoting Process" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
     </div>
     <div style="flex: 1; min-width: 280px;">
-      <h3 style="color: #495057; margin-top: 0; font-size: 1.5rem;">⚡ Get Quotes in Hours, Not Days</h3>
+      <h3 style="color: #495057; margin-top: 0; font-size: 1.5rem;">Get Quotes in Hours, Not Days</h3>
       <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem; color: #212529;">
         Upload your CAD files and receive transparent pricing within hours. 
         No more waiting days for machine shop quotes. Know your costs fast and keep your project moving.
       </p>
       <ul style="margin-bottom: 1.5rem; padding-left: 1.5rem; color: #495057;">
         <li style="margin-bottom: 0.5rem;">Automated DFM analysis included</li>
-        <li style="margin-bottom: 0.5rem;">Transparent pricing—no hidden fees</li>
+        <li style="margin-bottom: 0.5rem;">Transparent pricing, no hidden fees</li>
         <li style="margin-bottom: 0.5rem;">2-4 hour turnaround on most quotes</li>
-        <li style="margin-bottom: 0.5rem;">CNC machining, 3D printing & more</li>
+        <li style="margin-bottom: 0.5rem;">CNC machining, 3D printing, and more</li>
       </ul>
-      <a href="/instant-quoting/" style="display: inline-block; background: #495057; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; font-weight: 600;">Learn About Instant Quoting →</a>
+      <a href="/instant-quoting/" style="display: inline-block; background: #495057; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 6px; font-weight: 600;">Learn About Instant Quoting</a>
     </div>
   </div>
 </div>

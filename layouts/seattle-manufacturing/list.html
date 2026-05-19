@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="pl-sm-4 ml-sm-5 seo-collection-list">
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Description }}</p>
+  <div class="capabilities-grid">
+    {{ range .Pages.ByTitle }}
+      <article class="cap-card">
+        <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+        <p>{{ .Description }}</p>
+      </article>
+    {{ end }}
+  </div>
+  {{ .Content }}
+</div>
+{{ end }}
