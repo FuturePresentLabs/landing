@@ -1,5 +1,5 @@
 baseURL = "https://fpl.dev"
-title = "Future Present Labs | Precision CNC Machining & Mechatronics Consulting | Seattle, WA"
+title = "Future Present Labs | CNC Machining & Waterjet Cutting | Seattle, WA"
 languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
@@ -28,6 +28,12 @@ copyright = "&copy; 2026, Future Present Labs LLC."
     title = "Team"
     url = "/team/"
     weight = -115
+  [[menu.main]]
+    identifier = "seattle-manufacturing"
+    name = "Manufacturing"
+    title = "Seattle Manufacturing Services"
+    url = "/seattle-manufacturing/"
+    weight = -112
   # [[menu.main]]
   #   identifier = "services"
   #   name = "Services"
@@ -55,8 +61,8 @@ copyright = "&copy; 2026, Future Present Labs LLC."
 
 # Configuration Features
 [params]
-  description = "Future Present Labs is a Belltown, Seattle machine shop for CNC machining, WAZER waterjet cutting, MOPA fiber laser engraving, rapid prototyping, and mechatronics support."      # Your meta description of the site
-  header_title = "Future Present Labs"                 # Your header title
+  description = "Belltown Seattle machine shop for CNC machining, waterjet cutting, laser engraving, rapid prototyping, PCB design, and 3D printing."      # Your meta description of the site
+  header_title = "Future Present Labs - Seattle Machine Shop"                 # Your header title
   header_subtitle = "Bringing the future to the present. Est. 2018" # Your header subtitle
   home_image = "/images/fpl_square.png"          # Path to header image starting from the static directory (optional)
   recent_posts = 5                           # Max amount of recent posts to show
@@ -117,26 +123,32 @@ copyright = "&copy; 2026, Future Present Labs LLC."
 
   [[params.capabilities]]
     title = "CNC machining"
+    url = "/seattle-manufacturing/cnc-machining-seattle/"
     body = "4-axis milling in aluminum, stainless, brass, titanium, and engineering plastics. Setups stay ready for quick reruns."
     bullets = ["Prototyping and production runs", "Custom Fixturing", "Surface finishing through local partners"]
   [[params.capabilities]]
     title = "CNC turning"
+    url = "/seattle-manufacturing/cnc-turning-seattle/"
     body = "Lathe Turning for bushings, shafts, and housings with hand-fit checks before shipping."
     bullets = ["Brass, Aluminum, Delrin & More", "Threading, grooving, and parting tools on-hand", "From 5 parts to 500+"]
   [[params.capabilities]]
     title = "3D printing"
+    url = "/seattle-manufacturing/3d-printing-seattle/"
     body = "Carbon-filled nylon and engineering-grade plastics for tooling, fixtures, and workholding."
     bullets = ["Printer-ready in hours for fixtures or quick parts", "Hybrid Carbon Nylon prints + machined plates for rigid tooling", "Bulk PA6-CF Parts"]
   [[params.capabilities]]
     title = "Waterjet cutting"
+    url = "/seattle-manufacturing/waterjet-cutting-seattle/"
     body = "WAZER abrasive waterjet cutting for metals, plastics, composites, rubber, and gasket materials without heat-affected edges."
     bullets = ["DXF, STEP, and sketch-to-cut support", "Great for brackets, panels, shims, and blanks", "Machined finishing available after cutting"]
   [[params.capabilities]]
     title = "Laser engraving"
+    url = "/seattle-manufacturing/laser-engraving-seattle/"
     body = "MOPA fiber laser engraving for permanent part IDs, serial numbers, branding, panels, and short-run product details."
     bullets = ["Aluminum, stainless, plastics, coated parts, and wood", "Batch serialization and layout support", "Engraving paired with machining or assembly"]
   [[params.capabilities]]
     title = "PCB design"
+    url = "/seattle-manufacturing/pcb-design-seattle/"
     body = "Circuit board design, bring-up, and test support for embedded products, fixtures, and hardware prototypes."
     bullets = ["Schematic capture and board layout", "Prototype assembly and bench debugging", "Firmware and test integration"]
   [[params.capabilities]]

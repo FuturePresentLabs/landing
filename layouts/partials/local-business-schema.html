@@ -1,5 +1,9 @@
 {{- $contact := .Site.Params.contact -}}
 {{- $business := .Site.Params.business -}}
+{{- $baseURL := strings.TrimSuffix "/" ($business.url | default .Site.BaseURL) -}}
+{{- $pageID := printf "%s%s#webpage" $baseURL .RelPermalink -}}
+{{- $businessID := printf "%s/#localbusiness" $baseURL -}}
+{{- $websiteID := printf "%s/#website" $baseURL -}}
 {{- $services := slice
   "CNC machining"
   "4-axis CNC milling"
@@ -13,14 +17,14 @@
 -}}
 {{- $offers := slice -}}
 {{- range $services -}}
-  {{- $offers = $offers | append (dict "@type" "Offer" "itemOffered" (dict "@type" "Service" "name" . "areaServed" (dict "@type" "City" "name" "Seattle"))) -}}
+  {{- $serviceID := printf "%s/#service-%s" $baseURL (urlize .) -}}
+  {{- $offers = $offers | append (dict "@type" "Offer" "itemOffered" (dict "@type" "Service" "@id" $serviceID "name" . "provider" (dict "@id" $businessID) "areaServed" (dict "@type" "City" "name" "Seattle"))) -}}
 {{- end -}}
-{{- $schema := dict
-  "@context" "https://schema.org"
-  "@type" "LocalBusiness"
-  "@id" (printf "%s/#localbusiness" ($business.url | default .Site.BaseURL))
+{{- $businessSchema := dict
+  "@type" (slice "LocalBusiness" "ProfessionalService")
+  "@id" $businessID
   "name" ($business.name | default .Site.Params.header_title)
-  "url" ($business.url | default .Site.BaseURL)
+  "url" $baseURL
   "logo" ($business.logo | default (printf "%simages/fpl_square.png" .Site.BaseURL))
   "image" ($business.logo | default (printf "%simages/fpl_square.png" .Site.BaseURL))
   "description" ($business.description | default .Site.Params.description)
@@ -33,6 +37,42 @@
     (dict "@type" "AdministrativeArea" "name" "Puget Sound")
   )
   "knowsAbout" $services
+  "naics" "332710"
   "hasOfferCatalog" (dict "@type" "OfferCatalog" "name" "Manufacturing and prototyping services" "itemListElement" $offers)
 -}}
+{{- $websiteSchema := dict
+  "@type" "WebSite"
+  "@id" $websiteID
+  "url" $baseURL
+  "name" .Site.Params.header_title
+  "publisher" (dict "@id" $businessID)
+-}}
+{{- $webpageSchema := dict
+  "@type" "WebPage"
+  "@id" $pageID
+  "url" .Permalink
+  "name" (cond .IsHome .Site.Params.header_title .Title)
+  "description" (cond .IsHome .Site.Params.description .Description)
+  "isPartOf" (dict "@id" $websiteID)
+  "about" (dict "@id" $businessID)
+-}}
+{{- $graph := slice $businessSchema $websiteSchema $webpageSchema -}}
+{{- if or (eq .Section "seattle-manufacturing") (eq .Section "audio-hardware-fabrication") -}}
+  {{- $serviceSchema := dict
+    "@type" "Service"
+    "@id" (printf "%s%s#service" $baseURL .RelPermalink)
+    "name" .Title
+    "description" .Description
+    "url" .Permalink
+    "provider" (dict "@id" $businessID)
+    "areaServed" (slice
+      (dict "@type" "City" "name" "Seattle")
+      (dict "@type" "Place" "name" "Belltown")
+      (dict "@type" "AdministrativeArea" "name" "Puget Sound")
+    )
+    "serviceType" .Title
+  -}}
+  {{- $graph = $graph | append $serviceSchema -}}
+{{- end -}}
+{{- $schema := dict "@context" "https://schema.org" "@graph" $graph -}}
 <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>

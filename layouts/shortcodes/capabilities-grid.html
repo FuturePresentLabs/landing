@@ -10,7 +10,7 @@
 <div class="capabilities-grid compact">
   {{- range $items -}}
     <article class="cap-card">
-      <h4>{{ .title }}</h4>
+      <h4>{{ with .url }}<a href="{{ . }}">{{ end }}{{ .title }}{{ with .url }}</a>{{ end }}</h4>
       {{- with .body }}<p>{{ . }}</p>{{ end -}}
       {{- with .bullets }}
         <ul>

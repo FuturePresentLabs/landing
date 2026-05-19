@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Future Present Labs on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <title>Future Present Labs on Future Present Labs | CNC Machining &amp; Waterjet Cutting | Seattle, WA</title>
     <link>https://fpl.dev/</link>
-    <description>Recent content in Future Present Labs on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <description>Recent content in Future Present Labs on Future Present Labs | CNC Machining &amp; Waterjet Cutting | Seattle, WA</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
@@ -14,7 +14,7 @@
       <link>https://fpl.dev/post/puget-audio-partnership/</link>
       <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
       <guid>https://fpl.dev/post/puget-audio-partnership/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;SEATTLE, WA — February 16, 2026&lt;/strong&gt; — Puget Audio, a Seattle-based boutique builder of analog FX pedals for guitar and bass, has tapped Future Present Labs to handle manufacturing for their debut product line.&lt;/p&gt;&#xA;&lt;p&gt;Puget Audio designs handwired analog pedals—no DSP, no modeling, just discrete circuitry and premium components. Their first three pedals cover the essentials: overdrive, fuzz, and analog delay. With designs finalized, they needed a manufacturing partner who could handle everything from enclosure prep to final assembly without sending work overseas.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;SEATTLE, WA — February 16, 2026&lt;/strong&gt; — Puget Audio, a Seattle-based boutique builder of analog FX pedals and Eurorack modules, has tapped Future Present Labs to handle manufacturing support for their debut product line.&lt;/p&gt;&#xA;&lt;p&gt;Puget Audio designs handwired analog pedals and modular synth hardware: no DSP, no modeling, just discrete circuitry and premium components. Their first pedal designs cover the essentials: overdrive, fuzz, and analog delay. They also needed short-run Eurorack panels cut cleanly and locally as module designs move through prototype and first-article builds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcing AgentRFQ: An Open Standard for Agent-to-Manufacturer Requests</title>
@@ -36,13 +36,6 @@
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://fpl.dev/post/c7_event_venue_parts/</guid>
       <description>&lt;p&gt;&lt;strong&gt;SEATTLE, WA – November 15, 2025&lt;/strong&gt; – Future Present Labs has begun fabricating custom components for C7 Belevue, a luxury Bellevue event space undergoing ongoing interior updates.&lt;/p&gt;&#xA;&lt;p&gt;The current scope includes custom light fixture housings, machined metal keepsakes, and architectural shrouds designed to conceal reconfigured equipment mounting points while maintaining the venue&amp;rsquo;s aesthetic.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Event spaces need hardware that looks intentional but can take a beating,&amp;rdquo; said Avery Wagar, CEO of Future Present Labs. &amp;ldquo;We&amp;rsquo;re working directly with C7&amp;rsquo;s team to prototype and produce pieces that fit their operational reality—quick turnarounds, field-adjustable designs, and finishes that don&amp;rsquo;t look like afterthoughts.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GSG Manufacturing Partners with FPL on High-Mix Firearm Accessories</title>
-      <link>https://fpl.dev/post/gsg_mfg_partnership/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://fpl.dev/post/gsg_mfg_partnership/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Future Present Labs is now supporting GSG Manufacturing with rapid machining, fixture design, and engineering support for their expanding line of firearm accessories.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SEATTLE, WA – August 12, 2025&lt;/strong&gt; – GSG Manufacturing selected Future Present Labs (FPL) to help compress the build-test-ship cycle for accessory rails, charging handles, and specialty fixtures. The program combines FPL’s in-house CNC capability with firmware, test, and traceability tooling so GSG can iterate confidently without slowing sales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Player Aerospace Partners with FPL to Accelerate Rocket System Production</title>
@@ -91,7 +84,14 @@
       <link>https://fpl.dev/post/hello_world/</link>
       <pubDate>Fri, 23 May 2025 13:35:00 +0100</pubDate>
       <guid>https://fpl.dev/post/hello_world/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away” - &lt;a href=&#34;https://www.goodreads.com/author/quotes/1020792.Antoine_de_Saint_Exup_ry&#34;&gt;Antoine de Saint-Exupéry&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;In the last twenty or so years of technological development, the world lept forward in terms of convenience, automation, and consumer expectations. But almost as outpacing those consumers, the demand for profit seemingly soared higher.&lt;/p&gt;&#xA;&lt;p&gt;Looking for ways to gain more users, more market share, more extract-able value from personal data, companies like Google, Apple, and Meta created “walled gardens” with seemingly benign barriers to entry. Type in an email, a username, a password. Check a box with some “terms” some “conditions”, then sit back and watch as your dreams come to life on a little rectangle that fits in your hand.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away” - &lt;a href=&#34;https://www.goodreads.com/author/quotes/1020792.Antoine_de_Saint_Exup_ry&#34;&gt;Antoine de Saint-Exupéry&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;In the last twenty or so years of technological development, the world lept forward in terms of convenience, automation, and consumer expectations. But almost as outpacing those consumers, the demand for profit seemingly soared higher.&lt;/p&gt;&#xA;&lt;p&gt;Looking for ways to gain more users, more market share, more extract-able value from personal data, companies like Google, Apple, and Meta created “walled gardens” with seemingly benign barriers to entry. Type in an email, a username, a password. Check a box with some “terms” some “conditions”, then sit back and watch as your dreams come to life on a little rectangle that fits in your hand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D Printing Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/3d-printing-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/3d-printing-seattle/</guid>
+      <description>&lt;h1 id=&#34;3d-printing-in-seattle&#34;&gt;3D Printing in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs provides engineering 3D printing in Belltown, Seattle for prototypes, fixtures, tooling, and quick validation parts. We focus on practical printed parts that help a hardware project move: workholding, assembly aids, fit-check models, protective covers, and lightweight functional components.&lt;/p&gt;&#xA;&lt;p&gt;For manufacturing work, 3D printing is most useful when it compresses iteration. A printed nest can make an assembly step repeatable. A printed cover can prove connector clearance. A carbon-filled nylon bracket can survive enough testing to decide whether the next version should be machined.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
@@ -108,11 +108,46 @@
       <description>&lt;h2 id=&#34;agentic-manufacturing-from-intent-to-physical-reality&#34;&gt;Agentic Manufacturing: From Intent to Physical Reality&lt;/h2&gt;&#xA;&lt;img src=&#34;./images/agentic-manufacturing/hero-agentic-manufacturing.png&#34; alt=&#34;Agentic Manufacturing Pipeline - From CAD to Physical Part&#34; class=&#34;hero-image&#34; style=&#34;width: 100%; max-width: min(900px, 95vw); height: auto; margin: 2rem auto; display: block; border-radius: 8px;&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Agentic manufacturing&lt;/strong&gt; is the emerging practice of AI agents designing, specifying, quoting, and producing physical parts with minimal human intervention. Instead of humans translating ideas into CAD, then CAD into RFQs, then RFQs into purchase orders — the agent handles the full pipeline.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>CAD CAM Services Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/cad-cam-services-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/cad-cam-services-seattle/</guid>
+      <description>&lt;h1 id=&#34;cadcam-services-in-seattle&#34;&gt;CAD/CAM Services in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports Seattle CAD/CAM work for parts that need to become real hardware, not just clean screenshots. We help turn models, drawings, sketches, and revisions into machinable plans for CNC milling, turning, waterjet cutting, engraving, fixtures, and prototypes.&lt;/p&gt;&#xA;&lt;p&gt;CAD defines the shape. CAM defines how that shape gets made. The gap between them is where many prototype delays happen: no setup face, impossible internal corners, missing tolerances, unclear threads, fragile walls, or geometry that requires a tool the schedule cannot support.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>CNC Machining &amp; 3D Printing Quotes | Future Present Labs Seattle</title>
       <link>https://fpl.dev/instant-quoting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fpl.dev/instant-quoting/</guid>
       <description>&lt;h2 id=&#34;get-a-quote-for-cnc-machining--3d-printing-in-seattle&#34;&gt;Get a Quote for CNC Machining &amp;amp; 3D Printing in Seattle&lt;/h2&gt;&#xA;&lt;img src=&#34;./images/instant-quote/hero-instant-quote.png&#34; alt=&#34;Modern manufacturing facility with digital quoting&#34; class=&#34;hero-image&#34; style=&#34;width: 100%; max-width: min(900px, 95vw); height: auto; margin: 2rem auto; display: block; border-radius: 8px;&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;Need parts made?&lt;/strong&gt; Future Present Labs is a Seattle machine shop offering fast, transparent quotes and quick turnaround on prototypes and production runs.&lt;/p&gt;&#xA;&lt;p&gt;Upload your CAD files and receive detailed pricing within hours—not days. No hidden fees, no surprises.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-problem-with-traditional-machine-shop-quotes&#34;&gt;The Problem with Traditional Machine Shop Quotes&lt;/h2&gt;&#xA;&lt;p&gt;If you&amp;rsquo;ve worked with traditional shops, you know the frustrating cycle:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CNC Machining Eastside Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/cnc-machining-eastside-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/cnc-machining-eastside-seattle/</guid>
+      <description>&lt;h1 id=&#34;cnc-machining-for-eastside-seattle-hardware-teams&#34;&gt;CNC Machining for Eastside Seattle Hardware Teams&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports Eastside Seattle teams that need prototype and short-run CNC machining without handing the project to a distant, high-volume vendor. We work with engineers, founders, product teams, aerospace suppliers, robotics groups, and embedded hardware builders around Redmond, Kirkland, Bellevue, and the broader Puget Sound area.&lt;/p&gt;&#xA;&lt;p&gt;The Eastside has a dense mix of hardware startups, aerospace engineering, robotics, medical device work, software-adjacent labs, and product teams that need physical parts to keep pace with design changes. A local CNC partner helps when the job needs direct engineering discussion, fast revision feedback, or practical manufacturability review before the next test.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CNC Machining Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/cnc-machining-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/cnc-machining-seattle/</guid>
+      <description>&lt;h1 id=&#34;cnc-machining-in-seattle&#34;&gt;CNC Machining in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs is a Seattle machine shop for prototype and short-run CNC parts. We help hardware teams, product designers, defense suppliers, event venues, and local businesses turn CAD files, drawings, or sketches into parts that are ready for test, assembly, or customer use.&lt;/p&gt;&#xA;&lt;h2 id=&#34;good-fit-projects&#34;&gt;Good fit projects&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prototype brackets, mounts, plates, adapters, and housings&lt;/li&gt;&#xA;&lt;li&gt;Short-run aluminum, stainless, brass, titanium, and plastic parts&lt;/li&gt;&#xA;&lt;li&gt;Fixture plates, inspection aids, drill guides, and assembly tooling&lt;/li&gt;&#xA;&lt;li&gt;Iterative parts that need quick feedback from the person making them&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-work-locally&#34;&gt;Why work locally&lt;/h2&gt;&#xA;&lt;p&gt;Local CNC machining makes iteration faster. You can review photos, talk through tolerances, update CAD, and keep the next revision moving without shipping delays or long quoting queues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CNC Milling Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/cnc-milling-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/cnc-milling-seattle/</guid>
+      <description>&lt;h1 id=&#34;cnc-milling-in-seattle&#34;&gt;CNC Milling in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs provides CNC milling in Belltown, Seattle for teams that need precise prototype parts, small production runs, and practical engineering feedback. Milling removes material with rotating cutters, so the real work is not just loading a STEP file. It is choosing setups, tools, workholding, datums, and inspection points that make the part reliable without turning the quote into a science project.&lt;/p&gt;&#xA;&lt;p&gt;We are a strong fit when the part needs more than a file upload: tolerance review, fixture planning, material selection, revision support, or a quick conversation about what actually matters for the build.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CNC Turning Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/cnc-turning-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/cnc-turning-seattle/</guid>
+      <description>&lt;h1 id=&#34;cnc-turning-in-seattle&#34;&gt;CNC Turning in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports Seattle CNC turning projects for round parts that need accurate diameters, shoulders, bores, grooves, or threads. Turning is often the fastest and cleanest process for cylindrical geometry because the material spins while the tool forms the profile.&lt;/p&gt;&#xA;&lt;p&gt;The best turning jobs are clear about fit: which diameter rides in a bearing, which thread mates to another part, which shoulder controls stackup, and which surface is cosmetic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact &amp; Quote</title>
@@ -122,11 +157,172 @@
       <description>&lt;style&gt;&#xA;.contact-shell {&#xA;  max-width: 880px;&#xA;  margin: 0 auto;&#xA;  padding: 0 1rem 3rem;&#xA;}&#xA;&#xA;.contact-panel {&#xA;  background: linear-gradient(160deg, rgba(15, 23, 42, 0.92), rgba(15, 23, 42, 0.75));&#xA;  color: #f8fafc;&#xA;  border-radius: 1.5rem;&#xA;  padding: 2.5rem;&#xA;  border: 1px solid rgba(255, 255, 255, 0.08);&#xA;  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);&#xA;  margin: 1rem 0 2.5rem;&#xA;}&#xA;&#xA;.contact-panel h1 {&#xA;  margin-bottom: 1rem;&#xA;}&#xA;&#xA;.contact-panel p {&#xA;  margin-bottom: 1.5rem;&#xA;  font-size: 1rem;&#xA;  line-height: 1.7;&#xA;  color: rgba(248, 250, 252, 0.92);&#xA;}&#xA;&#xA;.contact-panel-meta {&#xA;  display: flex;&#xA;  flex-wrap: wrap;&#xA;  gap: 0.6rem;&#xA;  margin-bottom: 1.5rem;&#xA;}&#xA;&#xA;.contact-panel-meta span {&#xA;  font-size: 0.85rem;&#xA;  letter-spacing: 0.1em;&#xA;  text-transform: uppercase;&#xA;  padding: 0.3rem 0.9rem;&#xA;  border-radius: 999px;&#xA;  border: 1px solid rgba(248, 250, 252, 0.3);&#xA;  color: rgba(248, 250, 252, 0.8);&#xA;}&#xA;&#xA;.contact-grid {&#xA;  display: grid;&#xA;  gap: 1.5rem;&#xA;}&#xA;&#xA;.contact-card {&#xA;  background: #fff;&#xA;  border: 1px solid rgba(15, 23, 42, 0.05);&#xA;  border-radius: 1rem;&#xA;  padding: 1.75rem;&#xA;  box-shadow: 0 25px 60px rgba(15, 23, 42, 0.08);&#xA;}&#xA;&#xA;.contact-card h2 {&#xA;  margin-top: 0;&#xA;}&#xA;&#xA;.contact-card ul {&#xA;  padding-left: 1.2rem;&#xA;  margin-bottom: 0;&#xA;}&#xA;&#xA;.contact-card p:last-child {&#xA;  margin-bottom: 0;&#xA;}&#xA;&#xA;.contact-actions-compact {&#xA;  display: flex;&#xA;  gap: 1rem;&#xA;  flex-wrap: wrap;&#xA;  margin-top: 1rem;&#xA;}&#xA;&#xA;.contact-direct {&#xA;  margin-top: 2rem;&#xA;}&#xA;&#xA;@media (min-width: 768px) {&#xA;  .contact-grid {&#xA;    grid-template-columns: repeat(2, minmax(0, 1fr));&#xA;  }&#xA;&#xA;  .contact-panel-buttons {&#xA;    display: flex;&#xA;    gap: 0.75rem;&#xA;    flex-wrap: wrap;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;contact-shell&#34;&gt;&#xA;  &lt;section class=&#34;contact-panel&#34;&gt;&#xA;    &lt;h1&gt;Tell us what you need built&lt;/h1&gt;&#xA;    &lt;p&gt;We operate from Seattle, WA. Share your context—drawings, deadlines, constraints—and an engineer will respond with the next steps.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Contract Manufacturing Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/contract-manufacturing-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/contract-manufacturing-seattle/</guid>
+      <description>&lt;h1 id=&#34;contract-manufacturing-in-seattle&#34;&gt;Contract Manufacturing in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports contract manufacturing in Seattle for teams that need a practical local partner for parts, fixtures, small builds, and engineering-heavy production support. We are not a large factory; we are a small technical shop that is useful when the work still needs attention, context, and iteration.&lt;/p&gt;&#xA;&lt;p&gt;That distinction matters. If you need thousands of mature parts per month, we may help with prototyping, fixtures, or supplier handoff. If you need low-volume parts, debug-heavy assemblies, or a manufacturing partner who can still talk through the design, we are a better fit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom Eurorack Panels Waterjet</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/custom-eurorack-panels-waterjet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/custom-eurorack-panels-waterjet/</guid>
+      <description>&lt;h1 id=&#34;custom-eurorack-panels-by-waterjet&#34;&gt;Custom Eurorack Panels by Waterjet&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs uses a WAZER abrasive waterjet to cut custom Eurorack panels, panel blanks, and flat audio hardware parts. Waterjet cutting is useful when you need a real metal panel quickly without laser heat, large minimums, or a vendor that does not understand modular synth hardware.&lt;/p&gt;&#xA;&lt;p&gt;Waterjet is a strong fit for early module revisions, odd-width panels, alternate artwork tests, utility panels, adapter plates, and first articles that still need hands-on evaluation. It also pairs well with CNC finishing and laser engraving when the panel needs cleaner control holes, countersinks, or durable labeling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom Manufacturing Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/custom-manufacturing-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/custom-manufacturing-seattle/</guid>
+      <description>&lt;h1 id=&#34;custom-manufacturing-in-seattle&#34;&gt;Custom Manufacturing in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports custom manufacturing projects in Seattle when the work does not fit neatly into one process. We help with mechanical parts, electronics, fixtures, engraving, assembly support, and short-run production planning.&lt;/p&gt;&#xA;&lt;h2 id=&#34;where-we-fit&#34;&gt;Where we fit&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Small-batch parts and repeat prototype runs&lt;/li&gt;&#xA;&lt;li&gt;Mixed mechanical and electronics projects&lt;/li&gt;&#xA;&lt;li&gt;Tooling, fixtures, and inspection aids&lt;/li&gt;&#xA;&lt;li&gt;Parts that need machining, cutting, engraving, and assembly coordination&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;built-for-practical-handoffs&#34;&gt;Built for practical handoffs&lt;/h2&gt;&#xA;&lt;p&gt;You can bring finished CAD, partial drawings, an existing part, or a problem statement. We will help identify the simplest manufacturing path, flag tolerance or material risks, and keep the project moving toward usable hardware.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daisy Patch PCB Prototyping</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/daisy-patch-pcb-prototyping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/daisy-patch-pcb-prototyping/</guid>
+      <description>&lt;h1 id=&#34;daisy-patch-pcb-prototyping&#34;&gt;Daisy Patch PCB Prototyping&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs helps builders prototype Daisy Patch and Daisy-based Eurorack hardware. We support PCB revisions, control layouts, panel fit, carrier boards, test fixtures, and the practical bring-up work required to turn a digital audio idea into a module people can patch.&lt;/p&gt;&#xA;&lt;p&gt;Daisy Patch projects sit at the intersection of firmware, audio electronics, controls, and mechanical packaging. The PCB has to expose the right knobs, jacks, switches, and debug access while fitting behind a panel and inside a case. Getting that right early saves painful board spins.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daisy Seed Carrier Board Design</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/daisy-seed-carrier-board-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/daisy-seed-carrier-board-design/</guid>
+      <description>&lt;h1 id=&#34;daisy-seed-carrier-board-design&#34;&gt;Daisy Seed Carrier Board Design&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs designs and prototypes Daisy Seed carrier boards for audio hardware teams building synth modules, effects pedals, controllers, test fixtures, and embedded DSP products. Daisy is powerful because it gets audio firmware moving quickly; the carrier board is where that firmware becomes a usable piece of hardware.&lt;/p&gt;&#xA;&lt;p&gt;A good Daisy Seed carrier board is not just a breakout. It has to support the controls, audio I/O, power, mechanical mounting, panel layout, debugging access, and eventual enclosure or module format. We help bridge the gap between firmware experimentation and a board that can survive real testing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electronics Prototyping Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/electronics-prototyping-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/electronics-prototyping-seattle/</guid>
+      <description>&lt;h1 id=&#34;electronics-prototyping-in-seattle&#34;&gt;Electronics Prototyping in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports Seattle electronics prototyping when a board, sensor, fixture, or embedded product needs practical debugging and integration support. We focus on the prototype stage where the design still needs bench work, firmware, mechanical context, and test planning.&lt;/p&gt;&#xA;&lt;p&gt;Electronics prototypes rarely fail in only one way. A schematic issue may look like firmware. A firmware issue may look like a sensor problem. A connector placed in the wrong spot can make a good board hard to use. We help work through those practical edges.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Embedded Systems Consulting Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/embedded-systems-consulting-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/embedded-systems-consulting-seattle/</guid>
+      <description>&lt;h1 id=&#34;embedded-systems-consulting-in-seattle&#34;&gt;Embedded Systems Consulting in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs provides embedded systems consulting in Seattle for teams building products, fixtures, sensors, controls, and test hardware. We help when firmware needs to connect to real hardware, and when the physical setup needs to support reliable testing.&lt;/p&gt;&#xA;&lt;p&gt;Embedded projects become expensive when the team cannot see what the system is doing. Good logs, repeatable fixtures, known-good hardware, and simple test scripts can save more time than a large rewrite.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Engineering Prototyping Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/engineering-prototyping-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/engineering-prototyping-seattle/</guid>
+      <description>&lt;h1 id=&#34;engineering-prototyping-in-seattle&#34;&gt;Engineering Prototyping in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Engineering prototypes need to answer a technical question. Will the part fit? Will the fixture hold repeatably? Can the board survive the test? Does the firmware capture the right data? Future Present Labs helps Seattle teams build prototypes around those questions.&lt;/p&gt;&#xA;&lt;p&gt;We are most useful when the prototype crosses domains. A machined part may need a board mount. A PCB may need a fixture. A firmware test may need a repeatable sensor position. A customer demo may need enough polish to be trusted without pretending it is final production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurorack Cases</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/eurorack-cases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/eurorack-cases/</guid>
+      <description>&lt;h1 id=&#34;custom-eurorack-cases&#34;&gt;Custom Eurorack Cases&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports custom Eurorack case fabrication for prototype systems, boutique instruments, and small-run modular synth hardware. We can help with panels, side plates, brackets, internal supports, rail interfaces, connector access, labeling, and the mechanical details around power and module fit.&lt;/p&gt;&#xA;&lt;p&gt;Eurorack cases are structural, electrical, and ergonomic products at the same time. Rails need to align, modules need clearance, power access needs to be sensible, and the case has to survive real patching without flexing or fighting the user. We help turn case concepts into buildable parts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurorack Panel Fabrication Seattle</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/eurorack-panel-fabrication-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/eurorack-panel-fabrication-seattle/</guid>
+      <description>&lt;h1 id=&#34;eurorack-panel-fabrication-in-seattle&#34;&gt;Eurorack Panel Fabrication in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs fabricates Eurorack panels for modular synth builders who need prototype, first-article, or short-run production hardware. We support flat panel cutting, hole cleanup, engraving, revision marks, and the mechanical details that determine whether a module feels solid once it is mounted in a case.&lt;/p&gt;&#xA;&lt;p&gt;Eurorack panels look simple until the stackup is wrong. Pot shafts, jack nuts, LED pipes, standoffs, PCB headers, rail clearance, and silkscreen or engraving locations all compete for space. We help review those constraints before cutting so a panel is not just pretty, but usable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fixture Design Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/fixture-design-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/fixture-design-seattle/</guid>
+      <description>&lt;h1 id=&#34;fixture-design-in-seattle&#34;&gt;Fixture Design in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs designs and builds fixtures in Seattle for machining, inspection, assembly, electronics testing, and repeatable prototype work. A good fixture makes the next operation faster, safer, and easier to verify.&lt;/p&gt;&#xA;&lt;p&gt;Fixtures are how small teams buy repeatability. They locate parts the same way, protect delicate features, reduce operator judgment, and make test data easier to trust. They do not need to be elaborate; they need to remove the right uncertainty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guitar Pedal Enclosure Machining</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/guitar-pedal-enclosure-machining/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/guitar-pedal-enclosure-machining/</guid>
+      <description>&lt;h1 id=&#34;guitar-pedal-enclosure-machining&#34;&gt;Guitar Pedal Enclosure Machining&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs machines and marks guitar pedal enclosures for boutique builders, prototype runs, and early production batches. We support common pedal enclosure workflows such as 125B drilling and milling, jack and switch layouts, pot holes, LED holes, battery or board clearance, laser engraving, and assembly-aware fixture work.&lt;/p&gt;&#xA;&lt;p&gt;Pedal enclosures are small, but the details matter. A switch hole that is slightly off, a jack layout that fights the PCB, or labels that do not survive handling can slow a launch. We help line up the mechanical work with the circuit, artwork, wiring, and assembly plan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hardware Prototyping Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/hardware-prototyping-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/hardware-prototyping-seattle/</guid>
+      <description>&lt;h1 id=&#34;hardware-prototyping-in-seattle&#34;&gt;Hardware Prototyping in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Hardware prototyping is messy because mechanical, electrical, firmware, and manufacturing decisions all affect each other. Future Present Labs helps Seattle hardware teams build the next version with enough context to avoid avoidable handoff problems.&lt;/p&gt;&#xA;&lt;p&gt;The best hardware prototype is not necessarily the prettiest one. It is the one that exposes risk: fit, thermal behavior, signal integrity, cable routing, mounting, assembly access, power, firmware behavior, or test repeatability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrated Services to Accelerate Your Innovation</title>
+      <link>https://fpl.dev/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/services/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;cnc&#34;&gt;CNC machining services&lt;/h3&gt;&#xA;&lt;p&gt;We run one 4-axis mill and one CNC lathe in Belltown, Seattle, focused on prototypes and short-run parts. Materials we regularly keep on hand include 6061, 7075, stainless, tool steel, Delrin, and other engineering plastics. Every job ships with simple measurement notes so you know what we checked.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;waterjet&#34;&gt;Waterjet cutting&lt;/h3&gt;&#xA;&lt;p&gt;We support WAZER abrasive waterjet cutting for metal, plastic, composite, rubber, gasket, and panel work. Send DXF, STEP, drawings, or sketches; we can help clean up geometry and identify which features should be machined after cutting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laser Engraving Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/laser-engraving-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/laser-engraving-seattle/</guid>
+      <description>&lt;h1 id=&#34;laser-engraving-in-seattle&#34;&gt;Laser Engraving in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs provides MOPA fiber laser engraving and marking in Belltown, Seattle for prototypes, parts, panels, small batches, and production support. Engraving is useful when labels need to survive handling, cleaning, assembly, or field use.&lt;/p&gt;&#xA;&lt;p&gt;A MOPA fiber laser gives more control over pulse settings than a basic marking setup, which can help with contrast, heat input, and mark quality on metals and some coated or engineered surfaces. The right settings still depend on material, finish, coating, desired contrast, and whether the mark is decorative or functional.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Part Marking Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/part-marking-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/part-marking-seattle/</guid>
+      <description>&lt;h1 id=&#34;part-marking-in-seattle&#34;&gt;Part Marking in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs provides part marking in Seattle for teams that need serial numbers, QR codes, labels, revision marks, panel text, and durable identification on prototype or short-run parts. Marking is especially useful when parts need traceability, clear assembly steps, or field-ready labels.&lt;/p&gt;&#xA;&lt;p&gt;Industrial marking is different from decoration. The mark needs to be readable after handling, cleaning, assembly, and sometimes coating or field use. That means placement, contrast, size, orientation, and material all matter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PCB Design Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/pcb-design-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/pcb-design-seattle/</guid>
+      <description>&lt;h1 id=&#34;pcb-design-in-seattle&#34;&gt;PCB Design in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs helps Seattle hardware teams with PCB design, electronics prototyping, bring-up, and test integration. We are a good fit when your board needs to connect cleanly to mechanical parts, fixtures, sensors, firmware, or manufacturing workflows.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pcb-support&#34;&gt;PCB support&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Schematic capture and PCB layout&lt;/li&gt;&#xA;&lt;li&gt;Board revisions for prototypes and small product runs&lt;/li&gt;&#xA;&lt;li&gt;Embedded hardware bring-up and bench debugging&lt;/li&gt;&#xA;&lt;li&gt;Test fixtures, harnesses, and data logging support&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;integrated-mechanical-and-electronics-work&#34;&gt;Integrated mechanical and electronics work&lt;/h2&gt;&#xA;&lt;p&gt;Boards rarely live alone. We can design around enclosures, panel controls, mounting constraints, cable paths, and test access, then support the surrounding &lt;a href=&#34;./seattle-manufacturing/cnc-machining-seattle/&#34;&gt;CNC machining&lt;/a&gt;, &lt;a href=&#34;./seattle-manufacturing/rapid-prototyping-seattle/&#34;&gt;rapid prototyping&lt;/a&gt;, and firmware work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Precision Machining Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/precision-machining-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/precision-machining-seattle/</guid>
+      <description>&lt;h1 id=&#34;precision-machining-in-seattle&#34;&gt;Precision Machining in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs provides precision machining in Seattle for parts where fit, repeatability, surface finish, and inspection notes matter. We are a small shop, which makes us a good fit for focused prototype and short-run work that benefits from direct engineering communication.&lt;/p&gt;&#xA;&lt;p&gt;Precision machining is not the same thing as making every number tight. It means understanding which features control function, then choosing setups, cutters, datums, and checks that protect those features.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product Prototyping Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/product-prototyping-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/product-prototyping-seattle/</guid>
+      <description>&lt;h1 id=&#34;product-prototyping-in-seattle&#34;&gt;Product Prototyping in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs helps Seattle teams turn product concepts into functional prototypes. We are a good fit for physical products that involve machined parts, printed fixtures, embedded electronics, panels, housings, or test hardware.&lt;/p&gt;&#xA;&lt;p&gt;Product prototypes have different jobs at different stages. A proof-of-concept build can be ugly if it proves the core mechanism. A pilot unit needs better fit, labeling, assembly sequence, and service access. A customer demo needs the details that make people believe the product is real.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prototype Machining Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/prototype-machining-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/prototype-machining-seattle/</guid>
+      <description>&lt;h1 id=&#34;prototype-machining-in-seattle&#34;&gt;Prototype Machining in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Prototype machining is different from production machining. The goal is to make the next test possible, learn quickly, and avoid spending time on details that do not affect the current decision. Future Present Labs helps Seattle teams machine prototype parts with that mindset.&lt;/p&gt;&#xA;&lt;p&gt;A prototype may need production-like material, real threads, bearing fits, flatness, or stiffness. It may also only need to prove clearance, ergonomics, assembly sequence, or sensor placement. The process should match the question the prototype is supposed to answer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rapid Prototyping Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/rapid-prototyping-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/rapid-prototyping-seattle/</guid>
+      <description>&lt;h1 id=&#34;rapid-prototyping-in-seattle&#34;&gt;Rapid Prototyping in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs helps Seattle teams move from idea to working prototype with fewer handoffs. We combine CNC machining, 3D printing, electronics, engraving, waterjet cutting, and practical design support for projects where the next useful revision matters more than a polished process deck.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prototype-work-we-handle&#34;&gt;Prototype work we handle&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First-article machined parts and fixture plates&lt;/li&gt;&#xA;&lt;li&gt;Functional 3D printed tooling and assembly aids&lt;/li&gt;&#xA;&lt;li&gt;Electronics prototypes, harnesses, and test rigs&lt;/li&gt;&#xA;&lt;li&gt;Marked panels, labels, and short-run presentation parts&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;faster-iteration&#34;&gt;Faster iteration&lt;/h2&gt;&#xA;&lt;p&gt;Local prototyping keeps feedback loops short. We can talk through CAD, identify risky features, suggest materials, and help decide what should be machined, printed, engraved, or cut first.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Shroud: Unleash Bare-Metal Power for Tomorrow&#39;s Workloads</title>
       <link>https://fpl.dev/shroud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fpl.dev/shroud/</guid>
       <description>&lt;h3 id=&#34;shroud-protect-yourself-from-the-cloud-when-it-rains-it-pours&#34;&gt;&lt;strong&gt;Shroud: Protect yourself from the cloud; when it rains, it pours..&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/shroud-logo.png&#34; alt=&#34;shroud&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;transform-your-bare-metal-servers-into-high-performance-secure-and-cost-efficient-compute-platforms&#34;&gt;Transform your bare-metal servers into high-performance, secure, and cost-efficient compute platforms.&lt;/h4&gt;&#xA;&lt;p&gt;Shroud is Future Present Labs&amp;rsquo; cutting-edge orchestration tool, meticulously engineered to run workloads in ultra-lightweight &lt;strong&gt;Firecracker microVMs&lt;/strong&gt; directly on your physical hardware. Designed for environments where traditional virtualization is too heavy and cloud dependency is not an option, Shroud delivers unparalleled speed, simplicity, and sovereignty.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;why-shroud-immediate-benefits-for-your-enterprise&#34;&gt;Why Shroud? Immediate Benefits for Your Enterprise.&lt;/h3&gt;&#xA;&lt;h4 id=&#34;drastically-reduce-total-cost-of-ownership-tco&#34;&gt;&lt;strong&gt;Drastically Reduce Total Cost of Ownership (TCO)&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Maximize your hardware investment. Shroud&amp;rsquo;s ultra-low overhead allows you to pack significantly more workloads onto each server, driving down infrastructure costs and boosting operational efficiency. No more paying for bloated layers of abstraction or cloud vendor lock-in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Small Batch Manufacturing Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/small-batch-manufacturing-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/small-batch-manufacturing-seattle/</guid>
+      <description>&lt;h1 id=&#34;small-batch-manufacturing-in-seattle&#34;&gt;Small Batch Manufacturing in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs helps Seattle teams with small-batch manufacturing when the job is too real for a one-off prototype but not ready for high-volume production. This is the space where repeatability, setup notes, packaging, and revision control start to matter.&lt;/p&gt;&#xA;&lt;p&gt;Small batches are often where a product learns how it wants to be made. The first five parts prove the design; the next 25 expose what takes too long, what needs a fixture, what should be engraved, and what needs clearer inspection criteria.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Synthesizer Cases</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/synthesizer-cases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/synthesizer-cases/</guid>
+      <description>&lt;h1 id=&#34;custom-synthesizer-cases&#34;&gt;Custom Synthesizer Cases&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs fabricates custom synthesizer cases and enclosures for desktop synths, controllers, prototype instruments, and boutique audio hardware. We help with the practical mechanical work around panels, side plates, mounting features, PCB fit, connectors, controls, labeling, and assembly.&lt;/p&gt;&#xA;&lt;p&gt;Synth cases carry the identity of the instrument, but they also have to make the electronics serviceable and playable. Good case design protects the board, supports the controls, exposes the right connectors, avoids awkward cable paths, and gives the product a physical form that matches how it will be used.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Team</title>
@@ -141,6 +337,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fpl.dev/success/</guid>
       <description>&lt;h1 id=&#34;-success&#34;&gt;🎉 Success!&lt;/h1&gt;&#xA;&lt;p&gt;Thank you for your order. We’ve received your payment and will process your item shortly.&lt;/p&gt;&#xA;&lt;div id=&#34;order-id&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;const params = new URLSearchParams(window.location.search);&#xA;const orderId = params.get(&#34;order-id&#34;);&#xA;&#xA;if (orderId) {&#xA;document.getElementById(&#34;order-id&#34;).innerText =&#xA;`Your order ID is ${orderId}. We&#39;ll be in touch soon.`;&#xA;}&#xA;&lt;/script&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;.contact-block {&#xA;  margin-top: 2.5rem;&#xA;  padding: 2rem;&#xA;  border-left: 4px solid #0C5DF4;&#xA;  background-color: #f5f7ff;&#xA;  border-radius: 6px;&#xA;  box-shadow: 0 10px 25px rgba(14, 33, 77, 0.12);&#xA;  display: flex;&#xA;  flex-direction: column;&#xA;  gap: 1.5rem;&#xA;}&#xA;&#xA;.contact-block h2 {&#xA;  margin-top: 0;&#xA;  margin-bottom: 0.5rem;&#xA;}&#xA;&#xA;.contact-copy p {&#xA;  margin-bottom: 0.75rem;&#xA;}&#xA;&#xA;.contact-copy ul {&#xA;  padding-left: 1.2rem;&#xA;  margin: 0;&#xA;  color: #334155;&#xA;}&#xA;&#xA;.contact-actions {&#xA;  display: flex;&#xA;  flex-direction: column;&#xA;  gap: 0.75rem;&#xA;}&#xA;&#xA;.contact-btn {&#xA;  display: inline-block;&#xA;  text-align: center;&#xA;  font-weight: 600;&#xA;  padding: 0.85rem 1rem;&#xA;  border-radius: 999px;&#xA;  border: 2px solid transparent;&#xA;  transition: all 0.2s ease;&#xA;}&#xA;&#xA;.contact-btn.primary {&#xA;  background-color: #0f172a;&#xA;  color: #fff;&#xA;  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.35);&#xA;}&#xA;&#xA;.contact-btn.primary:hover,&#xA;.contact-btn.primary:focus {&#xA;  background-color: #020617;&#xA;  text-decoration: none;&#xA;}&#xA;&#xA;.contact-btn.secondary {&#xA;  background-color: #fff;&#xA;  color: #0f172a;&#xA;  border-color: #0f172a;&#xA;}&#xA;&#xA;.contact-btn.secondary:hover,&#xA;.contact-btn.secondary:focus {&#xA;  color: #020617;&#xA;  border-color: #020617;&#xA;  text-decoration: none;&#xA;}&#xA;&#xA;.contact-meta {&#xA;  font-size: 0.9rem;&#xA;  color: #4b5563;&#xA;}&#xA;&#xA;.contact-meta a {&#xA;  color: inherit;&#xA;  text-decoration: underline;&#xA;  text-decoration-thickness: 1px;&#xA;}&#xA;&#xA;@media (min-width: 768px) {&#xA;  .contact-block {&#xA;    flex-direction: row;&#xA;    align-items: center;&#xA;    justify-content: space-between;&#xA;  }&#xA;&#xA;  .contact-copy {&#xA;    max-width: 60%;&#xA;  }&#xA;&#xA;  .contact-actions {&#xA;    max-width: 280px;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div class=&#34;contact-block&#34; id=&#34;contact&#34;&gt;&#xA;  &lt;div class=&#34;contact-copy&#34;&gt;&#xA;    &lt;h2&gt;Need help?&lt;/h2&gt;&#xA;    &lt;p&gt;If you have any questions or need support, please email us.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waterjet Cutting Seattle</title>
+      <link>https://fpl.dev/seattle-manufacturing/waterjet-cutting-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/seattle-manufacturing/waterjet-cutting-seattle/</guid>
+      <description>&lt;h1 id=&#34;waterjet-cutting-in-seattle&#34;&gt;Waterjet Cutting in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports WAZER abrasive waterjet cutting in Belltown, Seattle for teams that need accurate flat-pattern parts without heat-affected edges. Waterjet cutting is useful for metals, plastics, composites, rubber, gasket stock, and other materials where laser heat or mechanical cutting is a poor fit.&lt;/p&gt;&#xA;&lt;p&gt;The WAZER is a compact abrasive waterjet platform, which makes it a strong fit for prototypes, short-run flat parts, panels, shims, gaskets, brackets, and blanks that later receive CNC finishing. It is not the right tool for every large-format or heavy-plate job; when scale or thickness exceeds the sensible range, we can help identify that early.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

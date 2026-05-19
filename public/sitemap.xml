@@ -14,6 +14,9 @@
     <loc>https://fpl.dev/tags/dfm/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
+    <loc>https://fpl.dev/tags/eurorack/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
     <loc>https://fpl.dev/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
@@ -33,6 +36,9 @@
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/tags/</loc>
+    <lastmod>2026-02-16T12:00:00-08:00</lastmod>
+  </url><url>
+    <loc>https://fpl.dev/tags/waterjet/</loc>
     <lastmod>2026-02-16T12:00:00-08:00</lastmod>
   </url><url>
     <loc>https://fpl.dev/categories/agentic-manufacturing/</loc>
@@ -74,12 +80,6 @@
     <loc>https://fpl.dev/categories/experiential/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/categories/defense/</loc>
-    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fpl.dev/post/gsg_mfg_partnership/</loc>
-    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/categories/aerospace/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -104,9 +104,6 @@
     <loc>https://fpl.dev/services/support/</loc>
     <lastmod>2025-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fpl.dev/services/</loc>
-    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fpl.dev/services/website_blog/</loc>
     <lastmod>2025-06-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -119,18 +116,82 @@
     <loc>https://fpl.dev/tags/software/</loc>
     <lastmod>2025-05-23T13:35:00+01:00</lastmod>
   </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/3d-printing-seattle/</loc>
+  </url><url>
     <loc>https://fpl.dev/about/</loc>
   </url><url>
     <loc>https://fpl.dev/agentic-manufacturing/</loc>
   </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/cad-cam-services-seattle/</loc>
+  </url><url>
     <loc>https://fpl.dev/instant-quoting/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/cnc-machining-eastside-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/cnc-machining-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/cnc-milling-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/cnc-turning-seattle/</loc>
   </url><url>
     <loc>https://fpl.dev/contact/</loc>
   </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/contract-manufacturing-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/custom-eurorack-panels-waterjet/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/custom-manufacturing-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/daisy-patch-pcb-prototyping/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/daisy-seed-carrier-board-design/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/electronics-prototyping-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/embedded-systems-consulting-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/engineering-prototyping-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/eurorack-cases/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/eurorack-panel-fabrication-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/fixture-design-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/guitar-pedal-enclosure-machining/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/hardware-prototyping-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/services/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/laser-engraving-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/part-marking-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/pcb-design-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/precision-machining-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/product-prototyping-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/prototype-machining-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/rapid-prototyping-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/</loc>
+  </url><url>
     <loc>https://fpl.dev/shroud/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/small-batch-manufacturing-seattle/</loc>
+  </url><url>
+    <loc>https://fpl.dev/audio-hardware-fabrication/synthesizer-cases/</loc>
   </url><url>
     <loc>https://fpl.dev/team/</loc>
   </url><url>
     <loc>https://fpl.dev/success/</loc>
+  </url><url>
+    <loc>https://fpl.dev/seattle-manufacturing/waterjet-cutting-seattle/</loc>
   </url>
 </urlset>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio Hardware Fabrication on Future Present Labs | CNC Machining &amp; Waterjet Cutting | Seattle, WA</title>
+    <link>https://fpl.dev/audio-hardware-fabrication/</link>
+    <description>Recent content in Audio Hardware Fabrication on Future Present Labs | CNC Machining &amp; Waterjet Cutting | Seattle, WA</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
+    <atom:link href="https://fpl.dev/audio-hardware-fabrication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Eurorack Panels Waterjet</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/custom-eurorack-panels-waterjet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/custom-eurorack-panels-waterjet/</guid>
+      <description>&lt;h1 id=&#34;custom-eurorack-panels-by-waterjet&#34;&gt;Custom Eurorack Panels by Waterjet&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs uses a WAZER abrasive waterjet to cut custom Eurorack panels, panel blanks, and flat audio hardware parts. Waterjet cutting is useful when you need a real metal panel quickly without laser heat, large minimums, or a vendor that does not understand modular synth hardware.&lt;/p&gt;&#xA;&lt;p&gt;Waterjet is a strong fit for early module revisions, odd-width panels, alternate artwork tests, utility panels, adapter plates, and first articles that still need hands-on evaluation. It also pairs well with CNC finishing and laser engraving when the panel needs cleaner control holes, countersinks, or durable labeling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daisy Patch PCB Prototyping</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/daisy-patch-pcb-prototyping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/daisy-patch-pcb-prototyping/</guid>
+      <description>&lt;h1 id=&#34;daisy-patch-pcb-prototyping&#34;&gt;Daisy Patch PCB Prototyping&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs helps builders prototype Daisy Patch and Daisy-based Eurorack hardware. We support PCB revisions, control layouts, panel fit, carrier boards, test fixtures, and the practical bring-up work required to turn a digital audio idea into a module people can patch.&lt;/p&gt;&#xA;&lt;p&gt;Daisy Patch projects sit at the intersection of firmware, audio electronics, controls, and mechanical packaging. The PCB has to expose the right knobs, jacks, switches, and debug access while fitting behind a panel and inside a case. Getting that right early saves painful board spins.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daisy Seed Carrier Board Design</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/daisy-seed-carrier-board-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/daisy-seed-carrier-board-design/</guid>
+      <description>&lt;h1 id=&#34;daisy-seed-carrier-board-design&#34;&gt;Daisy Seed Carrier Board Design&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs designs and prototypes Daisy Seed carrier boards for audio hardware teams building synth modules, effects pedals, controllers, test fixtures, and embedded DSP products. Daisy is powerful because it gets audio firmware moving quickly; the carrier board is where that firmware becomes a usable piece of hardware.&lt;/p&gt;&#xA;&lt;p&gt;A good Daisy Seed carrier board is not just a breakout. It has to support the controls, audio I/O, power, mechanical mounting, panel layout, debugging access, and eventual enclosure or module format. We help bridge the gap between firmware experimentation and a board that can survive real testing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurorack Cases</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/eurorack-cases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/eurorack-cases/</guid>
+      <description>&lt;h1 id=&#34;custom-eurorack-cases&#34;&gt;Custom Eurorack Cases&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs supports custom Eurorack case fabrication for prototype systems, boutique instruments, and small-run modular synth hardware. We can help with panels, side plates, brackets, internal supports, rail interfaces, connector access, labeling, and the mechanical details around power and module fit.&lt;/p&gt;&#xA;&lt;p&gt;Eurorack cases are structural, electrical, and ergonomic products at the same time. Rails need to align, modules need clearance, power access needs to be sensible, and the case has to survive real patching without flexing or fighting the user. We help turn case concepts into buildable parts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurorack Panel Fabrication Seattle</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/eurorack-panel-fabrication-seattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/eurorack-panel-fabrication-seattle/</guid>
+      <description>&lt;h1 id=&#34;eurorack-panel-fabrication-in-seattle&#34;&gt;Eurorack Panel Fabrication in Seattle&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs fabricates Eurorack panels for modular synth builders who need prototype, first-article, or short-run production hardware. We support flat panel cutting, hole cleanup, engraving, revision marks, and the mechanical details that determine whether a module feels solid once it is mounted in a case.&lt;/p&gt;&#xA;&lt;p&gt;Eurorack panels look simple until the stackup is wrong. Pot shafts, jack nuts, LED pipes, standoffs, PCB headers, rail clearance, and silkscreen or engraving locations all compete for space. We help review those constraints before cutting so a panel is not just pretty, but usable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guitar Pedal Enclosure Machining</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/guitar-pedal-enclosure-machining/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/guitar-pedal-enclosure-machining/</guid>
+      <description>&lt;h1 id=&#34;guitar-pedal-enclosure-machining&#34;&gt;Guitar Pedal Enclosure Machining&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs machines and marks guitar pedal enclosures for boutique builders, prototype runs, and early production batches. We support common pedal enclosure workflows such as 125B drilling and milling, jack and switch layouts, pot holes, LED holes, battery or board clearance, laser engraving, and assembly-aware fixture work.&lt;/p&gt;&#xA;&lt;p&gt;Pedal enclosures are small, but the details matter. A switch hole that is slightly off, a jack layout that fights the PCB, or labels that do not survive handling can slow a launch. We help line up the mechanical work with the circuit, artwork, wiring, and assembly plan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Synthesizer Cases</title>
+      <link>https://fpl.dev/audio-hardware-fabrication/synthesizer-cases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fpl.dev/audio-hardware-fabrication/synthesizer-cases/</guid>
+      <description>&lt;h1 id=&#34;custom-synthesizer-cases&#34;&gt;Custom Synthesizer Cases&lt;/h1&gt;&#xA;&lt;p&gt;Future Present Labs fabricates custom synthesizer cases and enclosures for desktop synths, controllers, prototype instruments, and boutique audio hardware. We help with the practical mechanical work around panels, side plates, mounting features, PCB fit, connectors, controls, labeling, and assembly.&lt;/p&gt;&#xA;&lt;p&gt;Synth cases carry the identity of the instrument, but they also have to make the electronics serviceable and playable. Good case design protects the board, supports the controls, exposes the right connectors, avoids awkward cable paths, and gives the product a physical form that matches how it will be used.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

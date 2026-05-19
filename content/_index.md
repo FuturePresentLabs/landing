@@ -38,6 +38,10 @@ keywords: ["CNC machining Seattle", "Belltown machine shop", "waterjet cutting S
 ---
 
 ### Core capabilities
+Our [Seattle manufacturing services](/seattle-manufacturing/) combine machining, cutting, marking, electronics, and prototype support in one local workflow. Common entry points include [CNC machining](/seattle-manufacturing/cnc-machining-seattle/), [waterjet cutting](/seattle-manufacturing/waterjet-cutting-seattle/), and [laser engraving](/seattle-manufacturing/laser-engraving-seattle/) for teams that need parts made, marked, and ready for assembly.
+
+We also support [audio hardware fabrication](/audio-hardware-fabrication/) for boutique synth and pedal builders, including Eurorack panels and cases, guitar pedal enclosure machining, Daisy Seed carrier boards, and Daisy Patch PCB prototypes.
+
 {{< capabilities-grid >}}
 
 ---

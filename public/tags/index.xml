@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</title>
+    <title>Tags on Future Present Labs | CNC Machining &amp; Waterjet Cutting | Seattle, WA</title>
     <link>https://fpl.dev/tags/</link>
-    <description>Recent content in Tags on Future Present Labs | Precision CNC Machining &amp; Mechatronics Consulting | Seattle, WA</description>
+    <description>Recent content in Tags on Future Present Labs | CNC Machining &amp; Waterjet Cutting | Seattle, WA</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026, Future Present Labs LLC.</copyright>
@@ -31,10 +31,24 @@
       <description></description>
     </item>
     <item>
+      <title>Eurorack</title>
+      <link>https://fpl.dev/tags/eurorack/</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
+      <guid>https://fpl.dev/tags/eurorack/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pcb</title>
       <link>https://fpl.dev/tags/pcb/</link>
       <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
       <guid>https://fpl.dev/tags/pcb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waterjet</title>
+      <link>https://fpl.dev/tags/waterjet/</link>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 -0800</pubDate>
+      <guid>https://fpl.dev/tags/waterjet/</guid>
       <description></description>
     </item>
     <item>
