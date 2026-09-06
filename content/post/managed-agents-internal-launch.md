@@ -3,9 +3,9 @@ title: "FPL Managed Agents: Available Internally, Launch Planned for September"
 author: "Future Present Labs"
 date: 2026-09-05T12:00:00-07:00
 draft: false
-hero: "images/posts/fpl-managed-agents.png"
-hero_alt: "FPL-branded aluminum enclosure with three individually separated compute modules on an engineering workbench."
-hero_caption: "AI-generated concept illustration of isolated agent environments, not production hardware."
+hero: "images/posts/fpl-managed-agents-software.png"
+hero_alt: "FPL Managed Agents with Hermes, OpenClaw, Firecracker and MCP logos; OpenClaw is marked planned."
+hero_caption: "AI-generated editorial artwork using project logo references. Hermes is available internally; managed OpenClaw is planned. Logos identify technologies, not partnerships."
 description: "FPL Managed Agents is live for internal use, starting with Hermes. A wider launch is planned for later September, with Shroud microVM isolation and identity-bound access to FPL tools."
 categories: ["Agents", "Shroud"]
 tags: ["agents", "hermes", "microvms", "fpl"]
@@ -27,9 +27,19 @@ The internal release brings agent setup and lifecycle management into Heimdall, 
 
 We've already moved an existing Hermes installation onto the managed service. Internal use is now helping us check onboarding, recovery, tool access, and day-to-day responsiveness against real work.
 
-## Built on Shroud MicroVMs
+### A Look at the Interface
 
-![Shroud, FPL's microVM orchestration platform](/images/shroud-logo.png)
+The screenshots below show the internal Heimdall interface with demonstration data, not a live customer account. No credentials are shown.
+
+![The New Hermes agent form in Heimdall, with a demonstration agent name and company selection.](/images/posts/managed-agents-create.png)
+
+*Create an agent under the appropriate FPL account or company.*
+
+![Hermes setup in Heimdall showing FPL connections and skills, an empty Telegram credential form, and migration controls.](/images/posts/managed-agents-setup.png)
+
+*Connect Telegram and bring an existing Hermes installation into the managed environment.*
+
+## Built on Shroud MicroVMs
 
 We've previously written about [Shroud and its use of Firecracker microVMs](/post/shroud_case_study/). Managed Agents applies that same foundation to long-running agent workloads.
 

@@ -10,6 +10,19 @@ illustrations, not photographs of production hardware.
 - `fpl-managed-agents.png`: three separated compute modules in an FPL-branded
   enclosure, a conceptual illustration of isolated agent environments. Uses
   the FPL logo and the AI cloud illustration as visual references.
+- `fpl-managed-agents-software.png`: replacement software-focused hero using
+  FPL, Hermes, OpenClaw, Firecracker and MCP logo references. OpenClaw is marked
+  planned, not available. The illustration does not imply project endorsements.
+
+Managed-agent logo references: Hermes icon from the official
+https://hermes-agent.nousresearch.com site (also used in Heimdall),
+https://openclaw.ai/apple-touch-icon.png, Firecracker's
+`docs/images/fc_logo_full_white-bg.png` in https://github.com/firecracker-microvm/firecracker,
+and the official https://modelcontextprotocol.io favicon.
+
+`static/images/posts/managed-agents-create.png` and `managed-agents-setup.png`
+are actual screenshots of the local Heimdall interface with mock API data.
+The account sidebar is excluded; no live credentials or customer data appear.
 
 Logo references: the site's `static/images/fpl_square.png` and the official
 [Hugging Face brand assets](https://huggingface.co/brand), specifically
