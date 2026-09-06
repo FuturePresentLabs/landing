@@ -7,6 +7,9 @@ illustrations, not photographs of production hardware.
   blue/yellow hardware accents and a circuit-board detail.
 - `fpl-ai-cloud.png`: FPL-branded silver compute enclosure with CPU/GPU
   hardware in a bright workshop. No third-party partnership branding.
+- `fpl-managed-agents.png`: three separated compute modules in an FPL-branded
+  enclosure, a conceptual illustration of isolated agent environments. Uses
+  the FPL logo and the AI cloud illustration as visual references.
 
 Logo references: the site's `static/images/fpl_square.png` and the official
 [Hugging Face brand assets](https://huggingface.co/brand), specifically

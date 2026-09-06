@@ -1,8 +1,11 @@
 ---
 title: "FPL Managed Agents: Available Internally, Launch Planned for September"
 author: "Future Present Labs"
-date: 2026-09-06T02:00:00-07:00
+date: 2026-09-05T12:00:00-07:00
 draft: false
+hero: "images/posts/fpl-managed-agents.png"
+hero_alt: "FPL-branded aluminum enclosure with three individually separated compute modules on an engineering workbench."
+hero_caption: "AI-generated concept illustration of isolated agent environments, not production hardware."
 description: "FPL Managed Agents is live for internal use, starting with Hermes. A wider launch is planned for later September, with Shroud microVM isolation and identity-bound access to FPL tools."
 categories: ["Agents", "Shroud"]
 tags: ["agents", "hermes", "microvms", "fpl"]
