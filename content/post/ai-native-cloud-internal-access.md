@@ -3,6 +3,9 @@ title: "FPL's AI-Native Cloud Platform Enters Internal Access"
 date: 2026-08-19T12:00:00-07:00
 draft: false
 author: "Future Present Labs"
+hero: "images/posts/fpl-ai-cloud.png"
+hero_alt: "Illustrated FPL-branded compute chassis with CPU and GPU hardware in a bright workshop."
+hero_caption: "AI-generated concept illustration, not production hardware."
 description: "FPL is opening internal access to an AI-native cloud platform built around CPU and GPU compute, with a focus on on-premises infrastructure and sovereign AI. Contact us to learn more."
 categories: ["Company News"]
 tags: ["AI", "cloud", "infrastructure", "sovereign AI", "on-premises", "computing"]

@@ -3,6 +3,9 @@ title: "FPL Is Now on Hugging Face"
 date: 2026-09-06T02:00:00-07:00
 draft: false
 author: "Future Present Labs"
+hero: "images/posts/fpl-hugging-face.png"
+hero_alt: "FPL and Hugging Face logos on an illustrated machined-aluminum surface with circuit-board details."
+hero_caption: "AI-generated illustration."
 description: "Future Present Labs is now on Hugging Face. Our first fine-tuned model is on the way, with more to share about AI for manufacturing, computing, and software development."
 categories: ["Company News"]
 tags: ["AI", "Hugging Face", "manufacturing", "computing", "software"]
