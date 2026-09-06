@@ -1,0 +1,36 @@
+{{ define "main" }}
+    <div class="pl-sm-2">
+        <div class="mb-3">
+            <h3 class="mb-0">{{ .Title }}</h3>
+            {{ if .Params.Subtitle }}
+            <h5>{{ .Params.Subtitle }}</h5>
+            {{ end }}
+            <small class="text-muted">Published {{ .Date.Format "January 2, 2006" }}</small>
+        </div>
+
+        {{ with .Params.hero }}
+            {{ $source := resources.Get . }}
+            {{ with $source }}
+                {{ $large := .Resize "1600x webp q85" }}
+                {{ $small := .Resize "800x webp q82" }}
+                <figure class="mb-4">
+                    <img src="{{ $large.RelPermalink }}"
+                         srcset="{{ $small.RelPermalink }} 800w, {{ $large.RelPermalink }} 1600w"
+                         sizes="(max-width: 767px) 100vw, 960px"
+                         width="{{ $large.Width }}" height="{{ $large.Height }}"
+                         alt="{{ $.Params.hero_alt }}" fetchpriority="high" decoding="async"
+                         style="display:block;width:100%;height:auto;">
+                    {{ with $.Params.hero_caption }}
+                        <figcaption class="text-muted mt-1"><small>{{ . }}</small></figcaption>
+                    {{ end }}
+                </figure>
+            {{ end }}
+        {{ end }}
+
+        <article>
+            {{ .Content }}
+        </article>
+    </div>
+
+    {{ template "_internal/disqus.html" . }}
+{{ end }}
