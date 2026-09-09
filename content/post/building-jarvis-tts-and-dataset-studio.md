@@ -1,7 +1,7 @@
 ---
 title: "Building Jarvis: A Better Voice Starts Before Training"
 date: 2026-09-06T00:00:00-07:00
-draft: true
+draft: false
 author: "Future Present Labs"
 description: "Inside FPL's Jarvis TTS work: a dataset studio for field recordings, selective cleanup, reproducible LoRA training, and the experiments that changed how we evaluate a voice."
 categories: ["Engineering"]
@@ -15,6 +15,25 @@ Jarvis is FPL's internal text-to-speech project: a custom LoRA adapter built on 
 The goal sounds simple: speech with a consistent character, clear articulation, and a delivery that works in an assistant. In practice, a line could sound excellent on its own and become a different voice when we changed the sentence. A cleaner training clip could produce a less convincing result. A reassuring evaluation score could miss an artifact that was immediately obvious to a listener.
 
 The biggest lesson was that "train it more" was often the wrong next experiment.
+
+## Hear It First
+
+Before the process, the result. A short reply:
+
+<audio controls src="https://huggingface.co/FuturePresentLabs/tts-jarvis/resolve/main/samples/preview-short.wav"></audio>
+
+Multi-sentence assistant dialogue:
+
+<audio controls src="https://huggingface.co/FuturePresentLabs/tts-jarvis/resolve/main/samples/preview-dialogue.wav"></audio>
+
+And a long passage, where artifacts are most likely to show up:
+
+<audio controls src="https://huggingface.co/FuturePresentLabs/tts-jarvis/resolve/main/samples/preview-longform.wav"></audio>
+
+More clips, including numbers and identifiers, are on the
+[model card](https://huggingface.co/FuturePresentLabs/tts-jarvis). We included
+the harder cases on purpose; the sections below explain why the easy ones were
+never the problem.
 
 ## Field Recordings Are Not a Ready-Made Dataset
 
@@ -147,7 +166,7 @@ The direction is a connected workflow: source media, editable decisions, process
 
 The current studio is not yet that multi-user cloud product. It has a server-wide active project, and concurrent editors currently need separate instances. Speaker labels are implemented, but ECAPA enrollment and automatic target-speaker cutting remain future work. Access controls, job isolation, shared-project behavior, and the licensing and rights requirements for broader availability still need to be addressed.
 
-We'll share availability details when that integration is ready. For now, the model and studio remain internal, and the public fine-tune release is still ahead.
+We'll share availability details when that integration is ready. The studio itself remains internal for now, but the adapter is no longer: the V4 LoRA, its inference recipe and the previews above are published at [FuturePresentLabs/tts-jarvis](https://huggingface.co/FuturePresentLabs/tts-jarvis) under Apache 2.0. The base weights are OpenBMB's VoxCPM2; what we are releasing is the adapter and the recipe around it.
 
 ## What We Want to Carry Forward
 
