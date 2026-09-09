@@ -6,6 +6,9 @@ author: "Future Present Labs"
 description: "Our Jarvis TTS adapter is now public on Hugging Face. Inside the work: a dataset studio for field recordings, selective cleanup, reproducible LoRA training, and the experiments that changed how we evaluate a voice."
 categories: ["Engineering"]
 tags: ["AI", "speech", "audio", "LoRA", "software", "computing"]
+hero: "images/posts/jarvis-tts.png"
+hero_alt: "Illustrated studio microphone beside an audio waveform cut into a brushed metal disc, with faint circuit traces."
+hero_caption: "AI-generated illustration."
 ---
 
 We started with a voice we wanted to get right. We ended up building a studio to understand why we weren't getting it right.
