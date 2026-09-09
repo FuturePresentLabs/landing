@@ -3,14 +3,17 @@ title: "Building Jarvis: A Better Voice Starts Before Training"
 date: 2026-09-06T00:00:00-07:00
 draft: false
 author: "Future Present Labs"
-description: "Inside FPL's Jarvis TTS work: a dataset studio for field recordings, selective cleanup, reproducible LoRA training, and the experiments that changed how we evaluate a voice."
+description: "Our Jarvis TTS adapter is now public on Hugging Face. Inside the work: a dataset studio for field recordings, selective cleanup, reproducible LoRA training, and the experiments that changed how we evaluate a voice."
 categories: ["Engineering"]
 tags: ["AI", "speech", "audio", "LoRA", "software", "computing"]
 ---
 
 We started with a voice we wanted to get right. We ended up building a studio to understand why we weren't getting it right.
 
-Jarvis is FPL's internal text-to-speech project: a custom LoRA adapter built on [VoxCPM2](https://github.com/OpenBMB/VoxCPM), paired with a selected voice reference and a carefully tested inference recipe. It is not a foundation model trained from scratch. Our work is in adapting the voice, preparing the data, evaluating the result, and making the whole process usable.
+Jarvis is FPL's text-to-speech project, and the adapter is now public:
+**[FuturePresentLabs/tts-jarvis on Hugging Face](https://huggingface.co/FuturePresentLabs/tts-jarvis)** — Apache 2.0, with the inference recipe and audio previews.
+
+It is a custom LoRA adapter built on [VoxCPM2](https://github.com/OpenBMB/VoxCPM), paired with a selected voice reference and a carefully tested inference recipe. It is not a foundation model trained from scratch. Our work is in adapting the voice, preparing the data, evaluating the result, and making the whole process usable.
 
 The goal sounds simple: speech with a consistent character, clear articulation, and a delivery that works in an assistant. In practice, a line could sound excellent on its own and become a different voice when we changed the sentence. A cleaner training clip could produce a less convincing result. A reassuring evaluation score could miss an artifact that was immediately obvious to a listener.
 
